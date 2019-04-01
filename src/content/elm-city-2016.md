@@ -2,7 +2,7 @@
 layout: post
 author: Phil
 title: 'Elm City CX 2016: Amateur on Ice'
-tags: ["racing", "cyclocross"]
+tags: ["cyclocross", "racing"]
 image: img/elm-city-2016/lol.jpeg
 date: 2016-12-27
 url: 'https://phil.bike/elm-city-cx-2016-amateur-on-ice-ebd07dd5e02'

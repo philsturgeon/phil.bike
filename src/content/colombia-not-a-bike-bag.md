@@ -5,8 +5,8 @@ title: Flying to Colombia with Not a Bike Bag
 date: 2017-09-13
 image: img/colombia-not-bike-bag/looks-terrible.jpeg
 tags:
-- Travel
-- Colombia
+- travel
+- colombia
 ---
 
 Traveling to major cities, figuring out the taxi/train/bus to and from the airport, then bumbling about yet another globalized concrete jungle is usually not the experience we hope for when we dream of exploring the world.

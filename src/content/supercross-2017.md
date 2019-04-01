@@ -5,8 +5,8 @@ title: Supercross 2017
 image: img/supercross-2017.jpg
 date: 2017-11-22
 tags:
-- Cyclocross
-- Racing
+- cyclocross
+- racing
 ---
 
 Supercross CX has to be one of the top tier northeast cyclocross events. It’s absolutely huge, and with two variations over two days it felt fresh both times.

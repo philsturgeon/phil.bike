@@ -19,6 +19,6 @@ It’s been a weird move, but Sleep Cycle has really helped me out there. Beyond
 
 This weeks “This Week in Bikes” goes over some of my learnings from the first three races. Got some more video-based stuff to float for next week.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/SBQJAdJiL_o" frameborder="0" allowfullscreen></iframe></center>
+https://www.youtube.com/watch?v=SBQJAdJiL_o
 
 There’s also a video of me grinding some garbage bike off of my fence. I’ve gotta admit, that was a lot of fun. Warmed my legs up a spot though. 😅
