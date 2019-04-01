@@ -12,7 +12,6 @@ export interface WebsiteConfig {
    * blog full path, no ending slash!
    */
   siteUrl: string;
-  facebook?: string;
   twitter?: string;
   /**
    * hide or show all email subscribe boxes
