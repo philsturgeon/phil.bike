@@ -47,6 +47,7 @@ module.exports = {
                   'Twitter',
                   'Instagram',
                   'YouTube',
+                  'Vimeo',
                 ],
                 settings: {
                   // Ex. Show all Twitter embeds with the dark theme

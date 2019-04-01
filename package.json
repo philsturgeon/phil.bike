@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "deploy": "npm run build && node ./scripts/deploy-github",
     "clean": "rimraf public",
     "dev": "gatsby develop",
     "lint": "eslint src/**/*.tsx src/**/*.ts",
@@ -75,6 +76,7 @@
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-react": "7.12.4",
     "eslint-plugin-react-hooks": "1.6.0",
+    "gh-pages": "^2.0.1",
     "rimraf": "2.6.3",
     "typescript": "3.3.4000"
   },
