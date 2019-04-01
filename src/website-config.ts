@@ -30,9 +30,8 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Phil.Bike',
-  description: 'The professional publishing platform',
+  description: 'One idiot and his bike, cycling across Europe.',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: undefined,

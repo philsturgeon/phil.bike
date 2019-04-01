@@ -1,14 +1,11 @@
 ---
 layout: post
 author: Phil
-tags: ["Training"]
+title: "Getting into Cycling: Your First Century"
+tags: ["training"]
 image: img/your-first-century/ghost-phil.jpeg
-date: "2016-07-04T07:46:37.121Z"
-draft: false
-redirect: https://phil.bike/getting-into-cycling-your-first-century-fb7f834b2f81
+date: "2016-07-04"
 ---
-
-# Getting into Cycling: Your First Century
 
 This season I’ve noticed an increase in people “getting into cycling” and wanting to go on bike adventures, which suits me nicely. I got into cycling long distances in a big way and have mostly been doing it solo, listening to random audiobooks and podcasts while I cycle around the mountains in New Jersey. As pretty as it is, having company is always better.
 

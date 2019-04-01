@@ -39,6 +39,22 @@ module.exports = {
               quality: 90,
             },
           },
+          {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              providers: {
+                include: [
+                  'Twitter',
+                  'Instagram',
+                  'YouTube',
+                ],
+                settings: {
+                  // Ex. Show all Twitter embeds with the dark theme
+                  // Twitter: { theme: 'dark' },
+                },
+              },
+            },
+          }
         ],
       },
     },

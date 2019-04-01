@@ -2,11 +2,11 @@
 layout: post
 author: Phil
 title: Cycle with a Loudspeaker
-tags: ["Training"]
+tags: ["training"]
 image: img/cycle-with-a-loudspeaker/bookbotix.jpg
 date: "2016-07-12"
 draft: false
-redirect: https://phil.bike/cycle-with-a-loudspeaker-8fbb63308125
+url: https://phil.bike/cycle-with-a-loudspeaker-8fbb63308125
 ---
 
 Previously I wrote a guide to getting started cycling far, and one of the things I mentioned was a loudspeaker. Now I want to talk a little bit more about that.
