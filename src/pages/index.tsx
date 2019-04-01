@@ -129,7 +129,7 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
         >
           <div css={inner}>
             <SiteHeaderContent>
-              <SiteTitle>
+              {/* <SiteTitle>
                 {props.data.logo ? (
                   <img
                     style={{ maxHeight: '45px' }}
@@ -139,6 +139,9 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
                 ) : (
                   config.title
                 )}
+              </SiteTitle> */}
+              <SiteTitle>
+                {config.title}
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>

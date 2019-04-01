@@ -5,6 +5,7 @@ module.exports = {
     title: 'Phil.Bike',
     description: 'Sometimes I race bikes, but right now I\'m cycling across Europe.',
     siteUrl: 'https://phil.bike', // full path to blog - no ending slash
+    logo: '',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

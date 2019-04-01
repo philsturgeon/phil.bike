@@ -34,7 +34,7 @@ This is not just a one-off thing for me. The very first time I put on my loudspe
 
 “Well Phil, maybe if you were to pay more attention” I can hear somebody shout. Welp, I’m a bloody alert cyclist, but nobody is able to pre-empt the entirely erratic behaviour of the bajillion people in a busy city. Just the other day, this shit:
 
-![](https://cdn-images-1.medium.com/max/2020/1*eHdJxghYY--5iKi_G90EsQ.png)
+![](img/chris-crash.png)
 
 It would be ridiculous and wrong to victim blame Chris for anything here, especially trying to say the crash is his fault for not carrying a speaker. It is not our fault as cyclists if people run out into the fucking road. *It’s a road.* Now, I don’t want to “other” pedestrians too much, because we’re all just people. Sometimes we’re in a rush, distracted, tired, fighting through a hangover from hell. Whatever it is, people aren’t always alert, and hearing some music coming at you will certainly help. Cars can be heard a long way off, and with a loudspeaker, bikes can too.
 
