@@ -5,7 +5,7 @@ image: img/2018-panama/day1/view.jpeg
 date: 2018-06-08
 title: "Idiota Gringo Bikes Panama: Arrival and Cerro Jefe"
 tags:
-- travel
+- exploring
 - panama
 ---
 

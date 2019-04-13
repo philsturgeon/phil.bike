@@ -5,9 +5,9 @@ title: "Poutine or Bust: NYC to Montreal"
 date: 2018-06-01
 image: img/2018-nyc-montreal/shitty-bridge.jpeg
 tags:
-- Travel
-- Canada
-- Touring
+- exploring
+- canada
+- touring
 ---
 
 Nobody wants to hear about sweating away on TrainerRoad so I’ve been quiet since cross season was done, but now I have an adventure to write up: cycling to Montreal, 1x 100mi, followed by 1x 200mi!
