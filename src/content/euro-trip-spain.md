@@ -81,9 +81,13 @@ Dried out riverbeds surrounded by almost desert.
 
 https://www.instagram.com/p/Bv4zyROFyob/
 
-Pre-Pyranees are like mini-Alps and I love it.
+Pre-Pyranees are like mini-Alps, cowbells and all!
 
-https://www.instagram.com/p/BwNFnfTlYn7/
+https://www.instagram.com/p/BwVRoGTloxj/
+
+Ski season might be over but there's still plenty of snow and ice at 1,800m.
+
+https://www.instagram.com/p/BwPzl5_ltDV/
 
 Only had the time to get the back wheel set up tubeless and got through three tubes in a day. One more flat and I would have had to resort to tying tubes in the rain.
 
