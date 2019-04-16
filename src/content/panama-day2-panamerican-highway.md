@@ -2,7 +2,7 @@
 layout: post
 author: Phil
 image: img/2018-panama/day2/urbano.jpeg
-date: 2018-06-07
+date: 2018-06-08
 title: "Cylcing on the Pan-American Highway"
 tags:
 - exploring
