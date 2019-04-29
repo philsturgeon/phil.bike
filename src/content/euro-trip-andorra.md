@@ -23,11 +23,11 @@ By getting the majority of the work out the way on the weekend, it meant getting
 
 Getting into Andorra was easy, just hopped on the road and headed north.
 
-![The 26km commute is basically longer than the country.](./img/2019-andorra/commute.jpg)
+![The 26km commute is basically longer than the country.](./img/2019/04-andorra/commute.jpg)
 
 To nerd out about georaphy a little bit, here's some stuff of Wikipedia:
 
-> Andorra is the sixth-smallest nation in Europe, having an area of 468 square kilometres (181 sq mi) and a population of approximately 77,281. The Andorran people are a Romance ethnic group of originally Catalan descent. Andorra is the 16th-smallest country in the world by land and the 11th-smallest by population. Its capital, Andorra la Vella, is the highest capital city in Europe, at an elevation of 1,023 metres (3,356 feet) above sea level. The official language is Catalan; Spanish, Portuguese, and French are also commonly spoken.
+> Andorra is the sixth-smallest nation in Europe, having an area of 468 square kilometers (181 sq mi) and a population of approximately 77,281. The Andorran people are a Romance ethnic group of originally Catalan descent. Andorra is the 16th-smallest country in the world by land and the 11th-smallest by population. Its capital, Andorra la Vella, is the highest capital city in Europe, at an elevation of 1,023 metres (3,356 feet) above sea level. The official language is Catalan; Spanish, Portuguese, and French are also commonly spoken.
 
 Also, it's all mountains:
 
@@ -37,7 +37,7 @@ I was not entirely sure what to expect cycling into there, which is why I'd been
 
 It was all uphill but nothing too bad, and the cars seemed used to it. There was some sort of border control building which was waving over trucks for a check, but they didn't seem to give a shit about the cars much less a chap on a bike. Pretty sure the booth guy on Tinder.
 
-![Ugly ass border control building, concrete, grey, ominous.](./img/2019-andorra/border.jpg)
+![Ugly ass border control building, concrete, grey, ominous.](./img/2019/04-andorra/border.jpg)
 
 Once you're past that it's straight into the main road, which is one big "strip mall" (for the Americans). Basically it's department stores and shopping centers all along a really narrow valley, with these huge amazing mountains on either side, following the upper course of a fast flowing river.
 
@@ -47,11 +47,11 @@ On main that road I spotted an amazing bike shop: [Jorma Bike](https://jormabike
 
 Then I thought "Crap, I didnt get the tube that was in there back, I need a backup!" Then noticed... I did have my tube. He's set the tubeless tyre up with a tube in it. Fuck my Spanish. 🤦
 
-Anyway, got to my place, sat the fuck down for 48 hours. Resting, working, enjoying the view around town. Popped out one day to another bike shop to get the front tyre actually aetup tubeless, but that was just a 45 minute noodle around.
+Anyway, got to my place, sat the hell down for 48 hours. Resting, working, enjoying the view around town. Popped out one day to another bike shop to get the front tyre actually aetup tubeless, but that was just a 45 minute noodle around.
 
 Encamp is really beautiful, with a real mixture of old and new. Lots of hotels and fancy apartment buildings, next to tiny old stone buildings.
 
-![This one new building had a black and white muriel of possibly the building that was there before, or at least an artists impression of a building that might have been there.](./img/2019-andorra/old-modern.jpg)
+![This one new building had a black and white muriel of possibly the building that was there before, or at least an artists impression of a building that might have been there.](./img/2019/04-andorra/old-modern.jpg)
 
 ## Poor Planning, Badly Executed
 
@@ -79,7 +79,7 @@ The descent was amazing, but terrifying. The sun was already down and the light 
 
 It was pitch black by the time I got into Canillo, but that was a good feeling. I was no longer worried about freezing to death or breaking bones on a closed and lonely mountain road, now I just had to get home without being smushed by skiier who'd had one too many at the ski lodge.
 
-In town it was ok, lots of street lamps, but within 1km the lights vanished. There was a 2-3m wide hatching area so I rode that, thinking "ha, easy, got this!" Of course that vanished too, and its just me in the pitch black, wearing all black, in a busy main road... fuck.
+In town it was ok, lots of street lamps, but within 1km the lights vanished. There was a 2-3m wide hatching area so I rode that, thinking "ha, easy, got this!" Of course that vanished too, and its just me in the pitch black, wearing all black, in a busy main road... balls.
 
 ![](./img/2019/04-andorra/bad-times.jpg)
 
