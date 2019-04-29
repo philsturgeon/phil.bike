@@ -93,10 +93,6 @@ Only had the time to get the back wheel set up tubeless and got through three tu
 
 ![A lovely view as I fix yet another flat.](img/2019/04-spain/flats.jpg)
 
-A 2km climb feels like a 5km climb with 35lb of shit on the bike.
-
-https://www.instagram.com/p/BwPzl5_ltDV/
-
 The next bit of the "plan" is to push through the other side of the Pyrenees into the south of France, and get through there as quickly as possible to Monacco. First, one more day of rest here in Andorra. TrainingPeaks is telling me I have gone a bit overboard this week.
 
 ![Considerably higher numbers than usual.](img/2019/04-spain/stats.jpg)
