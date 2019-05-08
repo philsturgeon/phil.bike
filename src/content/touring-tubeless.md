@@ -16,15 +16,15 @@ The main problem is compatibility, as "Tubeless ready" and "Tubeless Compatible"
 
 Despite all this I wanted to try again, because I didn't fancy spending my entire cross-Europe trip with a patch kit in hand. The way to sort this out is to do all the usual stuff like consulting the bike shop, getting them to make sure your wheels are tubeless ready, ordering in the exact tyres you want through them so they can set things up for you, and if that doesn't work you can sell them to a mate who wants to try their luck with their ever so slightly different wheels. Keep on going with Amazon or Wiggle or whatever until you find the right tyre combination and off you pop.
 
-Don't do what I did and just fuck off into the world and trying to find things as you random around. Here is a tail of nonsense which will help you know how to handle tubeless when touring without repeating my mistakes.
+Don't do what I did and just fuck off into the world, trying to find things as you random around.
 
 <hr>
 
-I was in Madrid picking up my repaired bike before I even started the actual tour, with one [Panracer Pasela](https://panaracerusa.com/product/pasela-protite-urban-touring-tire-2/) and a [Continental Gatorskin](https://www.continental-tires.com/bicycle/tires/race-tires/gatorskin) on the back, both rocking a tube. Setting off on the 3-day ride to Calpe I picked up a flat in the Gatorskin. One damn mile. I'd had the idea of going tubeless in my head for a while, and this was a good reminder to get it sorted before the trip started proper.
+I was in Madrid picking up my repaired bike before I even started the actual tour, with one [Panracer Pasela](https://panaracerusa.com/product/pasela-protite-urban-touring-tire-2/) and a [Continental Gatorskin](https://www.continental-tires.com/bicycle/tires/race-tires/gatorskin) on the back, both tubed. Setting off on the 3-day ride to Calpe the Gatorskin flatted one bloody mile in. I'd had the idea of going tubeless in my head for a while, and this was a good reminder to get it sorted before the trip started proper, so I clacked off to the nearest decent looking shop.
 
-Bike shops rarely carry many tubeless tyres, and when they do it's almost always 23C or 25C. I was bloody excited to find a [Specialized Roubaix Pro 28C](https://www.cyclingweekly.com/reviews/tyres/specialized-roubaix-pro-tyre) - a road tire b with a bit of grip. Seeing as they only had the one, and were already squeezing me in as a favour, I accepted the partial upgrade and planned to get the front sorted later.
+Bike shops rarely carry many tubeless tyres, and when they do it's almost always 23C or 25C. I was bloody excited to find a [Specialized Roubaix Pro 28C](https://www.cyclingweekly.com/reviews/tyres/specialized-roubaix-pro-tyre) - a road tire with a bit of grip. Seeing as they only had the one, and were already squeezing me in as a favour, I accepted the partial upgrade and planned to get the front sorted later.
 
-The front tyre, a Panracer 28C, was an absolute trooper with no punctures for four months. It was fine the whole time in Canary Islands, and got me from [Calpe to the Pyrenees](/euro-trip-spain/) before it started being a fucking jerk. Two flats in two different spots, and I was out of spare tubes in the middle of the mountains riding with my fingers crossed.
+The Panracer was an absolute trooper with no punctures for four months. It was fine the whole time in the [Canary Islands](/canary-islands-tenerife-gran-canaria/), and got me from [Calpe to the Pyrenees](/euro-trip-spain/), but then it started being a fucking jerk. Two flats in two different spots, and I was out of spare tubes in the middle of the mountains riding with my fingers crossed.
 
 https://www.instagram.com/p/BwPTIMMFVPS/
 
