@@ -72,21 +72,29 @@ Got to the hotel, comfort ate my bodyweight in cheeseburgers and wine, and rolle
 
 The guy in bike shop in Nice was lovely and replaced the spoke, but trying to get tubeless sorted out we hit a language barrier or something.
 
-> Me: Can you set this up tubeless please?
-> French Man: I dont have any tubeless tyres.
-> Me: This is a tubeless tyre.
-> But how do I know it is tubeless.
-> Me: It was already installed tubeless.
-> But I don't have any tubeless tyres.
-> \*Repeat x5\*
-> Me: _This. This is tubeless. Just... can I borrow your air compressor?!_
-> Oh, well I don't have time today.
+> **Me:** Can you set this up tubeless please?
+>
+> **French Man:** I dont have any tubeless tyres.
+>
+> **Me:** This is a tubeless tyre.
+>
+> **French Man:** But how do I know it is tubeless.
+>
+> **Me:** It was already installed tubeless.
+>
+> **French Man:** But I don't have any tubeless tyres.
+>
+> _\*Repeat x5\*_
+>
+> **Me:** _This. This is tubeless. Just... can I borrow your air compressor?!_
+>
+> **French Man:** Oh, well I don't have time today.
 
 Well no not after that. 🤦🏻‍♂️
 
 Took it to another bike shop and they noticed the bead was torn, so it would be fine with a tube but could not go tubeless anymore. Time for another new rear tyre. 🔥💵🔥
 
-Again it was a choice of whatever they had lying about. They had one tubeless ready 28C tyre but it was pretty slick. Nevermind.
+Again it was a choice of whatever they had lying about. They had one tubeless ready 28C tyre but it was pretty slick. Never mind.
 
 Rested and recuperated, 24 hours in Monaco, then off to the mountains!
 
