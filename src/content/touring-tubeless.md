@@ -104,7 +104,7 @@ I got all the way to the top, pushed through some snow, and started descending b
 
 https://www.instagram.com/p/BxDFO0Wl8eO/
 
-I threw some more sealant in, popped the valve core back in and a CO2 reseated it nicely, which was lucky. Should have done it with the core out, but I had a spare anyway. This got me the whole way down to a Italian chocalate factory on the valley floor. Nom nom nom.
+I threw some more sealant in, popped the valve core back in and a CO2 reseated it nicely, which was lucky. Should have done it with the core out, but I had a spare anyway. This got me the whole way down to a Italian chocolate factory on the valley floor. Nom nom nom.
 
 The rear tyre spent the next few hours with a slow leak, and I kept pumping it back up, hoping it would sort itself out sometime. It did not, and I discovered something was jammed in the sidewall and stopping it from sealing. Pliers could not get it out, and side of bacon didn't work either, so fuck it, tube again.
 
