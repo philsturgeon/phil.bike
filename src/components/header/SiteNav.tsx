@@ -1,11 +1,12 @@
 // tslint:disable:no-http-string
-import { Link } from 'gatsby';
 import * as React from 'react';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
 import { SocialLink } from '../../styles/shared';
 import config from '../../website-config';
+import Instagram from '../icons/instagram';
+import Strava from '../icons/strava';
 import Twitter from '../icons/twitter';
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
@@ -154,17 +155,33 @@ class SiteNav extends React.Component<SiteNavProps, SiteNaveState> {
         </SiteNavLeft>
         <SiteNavRight>
           <SocialLinks>
-            {config.twitter && (
-              <a
-                css={SocialLink}
-                href={config.twitter}
-                title="Twitter"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Twitter />
-              </a>
-            )}
+            <a
+              css={SocialLink}
+              href={config.twitter}
+              title="Twitter"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Twitter />
+            </a>
+            <a
+              css={SocialLink}
+              href={config.instagram}
+              title="Instagram"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Instagram />
+            </a>
+            <a
+              css={SocialLink}
+              href={config.strava}
+              title="Strava"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Strava />
+            </a>
           </SocialLinks>
           {config.showSubscribe && (
             <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
