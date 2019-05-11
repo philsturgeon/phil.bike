@@ -20,7 +20,7 @@ Strava had a good route along the river for a bit, had a coffee in L'Escarène, 
 
 After the big climb was a big descent into Sospel, where I filled up all the water and all the food, and offf I goooo! In my head the plan was to make it all the way to the Italian border over Colle Di Tende on day 1, but it started pissing it down climbing out of Sospel.
 
-Foolishly I had hoped it would stop, or whatever I'd be fine anyway. It had been really hot all morning and I thought it would be hot and wet, but it got really cold too. Even after stopping and rummaging around for extra layers, I vibrated the whole descent and felt really dizzy. Where the fuck were my long finger gloves? Did I lose them in Montreal?!
+Foolishly I had hoped it would stop, or whatever I'd be fine anyway. It had been really hot all morning and I thought it would be hot and wet, but it got really cold too. Even after stopping and rummaging around for extra layers, I vibrated the whole descent and felt really dizzy. Where the fuck were my long finger gloves? Did I lose them in Monaco?!
 
 When the descent was done I was a few miles from Breil-sur-Roya, so I hid in the warm corner of a cafe with a coffee and noticed there was a hotel upstairs, so I got in bed and didn't stop shivering for another hour. Dummy.
 
@@ -83,3 +83,11 @@ After that was just a nice flat mush north towards Milan, through farm country a
 ![](./img/2019/05-colle-di-tende/ninja.jpg)
 
 [May 4th: Colle di Tende and Italy!](https://www.strava.com/activities/2341879639)
+
+I learned some good lessons on this trip.
+
+1. Put shoe covers on that are in your bag, you might as well, they don't make much difference if its hot, and if water appears they're already on and you wont get wet feet. Wet feet are the pits.
+
+2. Have a "go bag" for sudden cold situations, with a whole bunch of layers in there, gloves, leg warmers, etc, without needing to rummage around in the paniers. An Alp Kit handlebar bag was waiting for me in Milan, so that's what that will be.
+
+3. You can't do 200km and climb over mountains and carry a shitload of stuff, pick one, or maybe two, but not all three. Cocky git.
