@@ -124,4 +124,8 @@ Now I'm in Milan for a few days, and I'm getting this shit sorted out properly b
 
 ![](img/2019/05-touring-tubeless/WTB-Exposure.jpg)
 
-Gotta learn somehow ey? 😂
+_*Update May 2019-05-10:* OHHH YEAAAAAH!_
+
+![Lovely new WTB tyres on, all up in the alps](img/2019/05-touring-tubeless/ohyeah.jpg)
+
+80km on these things and they are amazing. They don't feel any slower and I'm floating over cobbles that were wrecking me on 25mm tyres. It feels like I suddenly got suspension.
