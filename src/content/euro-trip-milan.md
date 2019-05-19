@@ -99,4 +99,6 @@ https://www.instagram.com/p/BxP99VKljQc/
 
 More people plant trees all over your buildings please.
 
+![](img/2019/05-milan/map.png)
+
 That's it, Switzerland next!
