@@ -30,21 +30,52 @@ https://www.instagram.com/p/BwPTIMMFVPS/
 
 Two lucky days later I got to Andorra. The first bike shop I came across had a nice Vittorria 28C something or other, but despite handing him a stem he put the tyre on with the same tube in it... 🤦‍♀️
 
-Another bike shop in Andorra had a go at it a day later, and they said the value stem was crap. They grabbed their own stem off the wall and had another go, and eventually (rather red in the face) the mechanic decided the tyre was incompatible. The only tubeless tyre he had was a [Contintental Grand Prix 5000 25C](https://www.continental-tires.com/bicycle/tires/race-tires/grand-prix-5000) and I didn't really want to argue with the man or go back to tubes, so I took the comically small slick road tyre and figured what they hell.
+Another bike shop in Andorra had a go at it a day later, and they said the value
+stem was crap. They grabbed their own stem off the wall and had another go, and
+eventually (rather red in the face) the mechanic decided the tyre was
+incompatible. The only tubeless tyre he had was a [Contintental Grand Prix 5000
+25C](https://www.continental-tires.com/bicycle/tires/race-tires/grand-prix-5000)
+and I didn't really want to argue with the man or go back to tubes, so I took
+the comically small slick road tyre and figured what they hell.
 
 Double tubeless, yaaaay!
 
 ## Heavy Burping
 
-That rear held up until the south of France - roughly a month after being installed - but then it started feeling squishy. It seems like I let the pressure get a bit low, then hit a pot-hole. The pot hole probably burped it, letting air squish out between the bead and rim, and with so much weight on the back by the time I noticed the problem the tyre had unseated a little.
+That rear held up until the south of France - roughly a month after being
+installed - but then it started feeling squishy. It seems like I let the
+pressure get a bit low, then hit a pot-hole. The pot hole probably burped it,
+letting air squish out between the bead and rim, and with so much weight on the
+back by the time I noticed the problem the tyre had unseated a little.
 
-My little poxy handpump wasn't going to force enough air in there to reseat it, and C02 didn't help either. I tried an emergency foam doofry and when I unscrewed the adapter it pulled the valve core with it, pissing foam everywhere. Those things are not meant for tubeless, that it’s for fixing holed up tubes, but I was a tad desperate.
+My little poxy handpump wasn't going to force enough air in there to reseat it,
+and C02 didn't help either. I tried an emergency foam doofry and when I
+unscrewed the adapter it pulled the valve core with it, pissing foam everywhere.
+Those things are not meant for tubeless, that it’s for fixing holed up tubes,
+but I was a tad desperate.
 
-I threw a 2nd CO2 in now the valve was out, and it reseated a bit, but then I noticed air was leaking out the around the valve stem. I tried tightening the stem, but there was a weird little square of rubber between the stem ring and the rim. When I originally saw that in the shop I thought "ha nice hack, whatever works" but that cowboy shit *didn't* work. The rubber tore away when I tightened the stem and that was that. Back to using a tube.
+I threw a 2nd CO2 in now the valve was out, and it reseated a bit, but then I
+noticed air was leaking out the around the valve stem. I tried tightening the
+stem, but there was a weird little square of rubber between the stem ring and
+the rim. When I originally saw that in the shop I thought "ha nice hack,
+whatever works" but that cowboy shit *didn't* work. The rubber tore away when I
+tightened the stem and that was that. Back to using a tube.
 
 ![Angrily putting a tube in after failing to save the tubeless setup](img/2019/05-touring-tubeless/retubing.jpg)
 
-Tubing my way through some towns didn't seem to bad, I was heading to Montpelier for a rest day, but my timing sucked. Stuff is mostly shut on Sundays, and then it was Easter Monday, so I patched one spare tube and threw the other one out, wasn't fixable. I hoped for better luck between there and Nice, trying to rush 360km that week to meet a friend at the end. That lead to me taking the straightest line through remote areas instead of going through Marseille for a bike shop, which was a poor idea.
+The cause of the problem had come from using a stem that wasn't creating a good
+seal against my rim. The Andorra bike shop was right when they said the stem was shit.
+See here the square one, which wasnt creating a seal, and the replacement.
+
+![Two different stems, one square which didnt create a seal, one tapered which did](img/2019/05-touring-tubeless/stems.jpg)
+
+Tubing my way through some towns didn't seem to bad, I was heading to Montpelier
+for a rest day, but my timing sucked. Stuff is mostly shut on Sundays, and then
+it was Easter Monday, so I patched one spare tube and threw the other one out,
+wasn't fixable. I hoped for better luck between there and Nice, trying to rush
+360km that week to meet a friend at the end. That lead to me taking the
+straightest line through remote areas instead of going through Marseille for a
+bike shop, which was a poor idea.
 
 ## Put a Knot in it
 
