@@ -5,6 +5,7 @@ title: "Getting my Bearings in Milan"
 image: img/2019/05-milan/cover.jpg
 date: 2019-05-15
 tags:
+- exploring
 - touring
 - milan
 - gear
