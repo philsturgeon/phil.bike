@@ -9,6 +9,7 @@ tags:
 - touring
 - europe
 - france
+- alps
 - italy
 ---
 

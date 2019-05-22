@@ -25,8 +25,10 @@ inglesi, but he did phone a mate and send me a few blocks down the road. [Baco
 Bici](http://www.bacobici.it/) took the bike and said they'd order things in, asked
 how long I was in town, laughed when I said "I'm only here for the bearings."
 
+![](img/2019/05-milan/map.png)
+
 I'm not going to write a city guide, but Milan is great. Lots of bike shops and
-bike cafes, nobody cared the only Italian I know is capaccino por favore, and there
+bike cafes, nobody cared the only Italian I know is cappuccino per favore, and there
 was a lot of good food and drink.
 
 When the bearings were installed I picked it up, and went off to find all the things that
@@ -98,7 +100,5 @@ Riding back from the bike shop I spotted the coolest thing in Milan, "Vertical W
 https://www.instagram.com/p/BxP99VKljQc/
 
 More people plant trees all over your buildings please.
-
-![](img/2019/05-milan/map.png)
 
 That's it, Switzerland next!
