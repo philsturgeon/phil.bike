@@ -13,7 +13,7 @@ tags:
 ---
 
 After my [brief stop in Milan](/euro-trip-milan/), I had fresh bearings, fresh
-big volume tubeless tyres, and fresh legs, all in perfect timing for a venture
+legs, and some beefy new tubeless tyres, all in perfect timing for a venture
 into the Swiss Alps. The Alps lived up to the challenge I was hoping for, with
 one crash, a hitchhike, and a whole lot of zipties.
 
@@ -42,11 +42,14 @@ It was Saturday morning and I wanted to get the hardest stuff done over the
 weekend, so I'd be close to Zurich on Monday and therefore more likely to be
 able to get work done.
 
-My Swiss mate let me know the usual bike route Gothard Pass was closed. Going
-for Lukmanier Pass was gonna be a big day, 140km with 2,000m of climbing, but I
-had a full stomach, charged bike lights, and figured I could just slog it out,
-drink lake water, go a bit ferrell until I hauled my heavy-ass bike to the hotel.
-None of that worked out.
+My Swiss mate let me know about a handy website for [checking the status of
+various
+passes](https://www.tcs.ch/de/tools/verkehrsinfo-verkehrslage/aktuelle-lage.php).
+The usual bike route Gothard Pass was closed. Going for [Lukmanier
+Pass](https://www.alpen-paesse.ch/en/alpenpaesse/lukmanierpass/) was gonna be a
+big day, 140km with 2,000m of climbing, but I had a full stomach, charged bike
+lights, and figured I could just slog it out, drink lake water, go a bit ferrell
+until I hauled my heavy-ass bike to the hotel. None of that worked out.
 
 With all the [tubeless trouble](/touring-tubeless/) (leaking, burping, etc.) I
 pumped my tyres up pretty hard,  and with the rain that was a bad choice. 20km
@@ -147,7 +150,14 @@ and I lost a cleat cover, but _never turn back_! 🤦🏻‍♂️
 Getting into Liechtenstein was stunning, as I got there just in time to see the sun was setting
 over the mountains to the north, and could still see the castles and whatnot.
 
-A nice little 500m climb up to the hotel finished the nonsense day off, until... oh wait all the
-restaurants closed at 9:30pm despite saying 10pm and ugh back down the hill to McDonalds. 40 CHF ($40) worth of poison, a vomit inducing 500m climb, and its BEDTIME, CHEERS!
+https://www.instagram.com/p/BxbFHn6hZ55/
+
+A nice little 500m climb up to the hotel finished the nonsense day off.
 
 ![](img/2019/05-switzerland/climb.jpg)
+
+Oh no the hotel is run by a robot and all the restaurants are closed, time to
+bomb the descent in the dark, buy 40 CHF ($40) worth of poison, vomit on the
+500m climb, plug a tyre, and fuck me good night. 🤣
+
+_Next article, zip-tieing a quick release axel after losing a nut...?!_
