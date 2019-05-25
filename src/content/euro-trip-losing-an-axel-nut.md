@@ -28,7 +28,7 @@ being offensively beautiful.
 
 ![](img/2019/05-gone-nuts/calm-down.jpg)
 
-It was really hot, there was 1700km of climbing to be done to get from
+It was really hot, there was 1.7km of climbing to be done to get from
 Switzerland into Germany, and my bags were feeling heavy. There was an extra
 chain I grabbed on Zurich knowing mine was close to dead, and I even had a spare
 cassette I'd been lugging around since the [Canary
@@ -79,11 +79,11 @@ The best bit about this whole thing, was this mistake didn't cost me a single Eu
 and I saved _even more_ weight. I gave him a giant pedal wrench I definitely don't need,
 and he gave me the nut for free.
 
-It's been a week since this happened, but still, every time I look down at my front wheel
-and see the little plastic nut he gave me, I laugh out loud.
-
 After all that nonsense, I ate a giant pizza, then pushed through the Black
 Forrest to Frieberg im Breisgau, Germany. Some friends lived in the area so we ate all the sausages and
-drank all the giant beers, and all is well!
+drank all the giant beers!
 
 ![](img/2019/05-gone-nuts/black-forrest.jpg)
+
+It's been a week since this happened, but still, every time I look down at my front wheel
+and see the little plastic nut he gave me, I laugh out loud.
