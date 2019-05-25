@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Phil
-title: "Losing an Axel Nut on the Swiss/German Border"
+title: "Losing my Nut on the Swiss/German Border"
 image: img/2019/05-gone-nuts/cover.jpg
 date: 2019-05-25
 tags:
@@ -45,10 +45,10 @@ Luckily I had one on my Crank Brothers multitool, and despite never getting it t
 on 3 attempts in the past, today it worked! Fuck that chain breaker, it's in the bin,
 more weight saved.
 
-Chain is sized, cassette is one, time to put this wheel back on. Chain tensioner is on,
+Chain is sized, cassette is on, time to put this wheel back on. Chain tensioner is on,
 skewer is in, now I can just... Hmm, where is the nut?
 
-Twenty minutes later, after the teenager working the till and I had gone through the wholew fucking
+Twenty minutes later, after the teenager working the till and I had gone through the whole fucking
 courtyard on our hands and knees, and he even started going through the nasty bins before I
 snatched it away and said "Please no, this is my job!" and got in there picking through fag ash...
 
