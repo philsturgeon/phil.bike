@@ -160,4 +160,6 @@ Oh no the hotel is run by a robot and all the restaurants are closed, time to
 bomb the descent in the dark, buy 40 CHF ($40) worth of poison, vomit on the
 500m climb, plug a tyre, and fuck me good night. 🤣
 
+[May 13th: Morning](https://www.strava.com/activities/2365271240) & [Afternoon](https://www.strava.com/activities/2365111111)
+
 _Next article, zip-tieing a quick release axel after losing a nut...?!_
