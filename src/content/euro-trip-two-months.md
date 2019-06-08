@@ -71,4 +71,4 @@ Luckily had a card on Apple Pay. Tried a few hotels until they took it, and boug
 
 ## Summary
 
-It's going great folks! Currently in East Europe in Czech, and I'm about to go on a rampage ticking off as many countries as possible. Camping equipment is gonna meet me in Prague , with a tarp and bivvy from Alp Kit. Might talk about that next.
+It's going great folks! Currently in East Europe in Czech, and I'm about to go on a rampage ticking off as many countries as possible. Camping equipment is gonna meet me in Prague, with a tarp and bivvy from [Alp Kit](https://www.alpkit.com/). Might talk about that next.
