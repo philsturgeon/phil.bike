@@ -91,10 +91,10 @@ non-descript multi-purpose building with no sign of anything to do with
 ClevverMail or shipping, or anything else.
 
 Two lovely Czech guys saw me loitering out front and let me inside. One of them
-found a mailbox saying ClevverMail and then they both were intrigued, and helped me
-hunt the place down. We wandered around a large multi-office converted warehouse knocking
-on doors and asking people if they had heard of ClevverMail, until we found
-somebody with a big "Sigma Sports" box. 🙋‍♂️
+found a mailbox saying ClevverMail and then they were intrigued. They helped me
+hunt the place down, wandering around a large multi-office converted warehouse knocking
+on doors and asking people if they had heard of ClevverMail. Eventually we found
+somebody with a big "Sigma Sports" box 🙋‍♂️, they cheered, and wandered off smiling.
 
 Picking up can have other problems too. Just because something arrived on Friday
 doesn't mean you'll be able to get it on Friday. They require "At least one
