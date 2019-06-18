@@ -145,6 +145,8 @@ that I took no photos of, because I was really tired and had spent the whole day
 stopping on and off to work. I just wanted to fill my face with meat and beer,
 which I did extremely successfully.
 
+![](img/2019/06-czech/kutna.jpg)
+
 ## Jihlava
 
 I still hadn't really got around to learning and Czech, I meant to on the way to
@@ -157,10 +159,7 @@ few spare bike bits at a local bike shop and two different places were just
 shouting at me. Very bizarre, but my local makes tell me the older generation
 have a lot of trust issues with foreigners.
 
-They didn't want Brits talking English or trying to give them stuff, so... fair
-enough.
-
-There is a definite disparity though. In the cities when you say "Mluvíte
+You can get in trouble either way. In the cities when you say "Mluvíte
 anglicky?" and they say "Of course!" almost annoyed that you would think they
 might not, but out in some of the smaller towns you ask the same question in the
 same way and they are pissed off that you think they would. 🤷‍♂️
