@@ -214,7 +214,7 @@ the end of June!
 
 **[Donate Tree Money to Eden Project, $1 = 10 trees](https://edenprojects.org/user/philsturgeon/)**
 
-_After you've thrown in some bucks, you can offset yourself on a monthly basis
-with [offset.earth](https://offset.earth/). I cancelled my barely used Hulu and
-signed up for this, so its costing me nothing to offset myself and three other
-humans._
+_Brits, if you are struggling to get your money into thaat site, you can offset
+yourself on a monthly basis with [offset.earth](https://offset.earth/). I
+cancelled my barely used Hulu account and signed up for this, so its costing me nothing
+to offset myself and three other humans. Looking at my classic car loving parents._
