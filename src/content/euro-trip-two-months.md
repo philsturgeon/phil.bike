@@ -65,10 +65,10 @@ Luckily had a card on Apple Pay. Tried a few hotels until they took it, and boug
 
 **Toothpaste:** Had two furry feeling days before I found more. A lot of hotels have tiiiiiny little two-squirt packs so now one of those lives in my frame bag as a backup.
 
-**Skewer Nut:** I changed my cassette and lost the skewer nut off the back. I traded for the front nut and [ziptied the bastard on](/euro-trip-losing-an-axel-nut/). It's the most scared I've been in years.
+**Skewer Nut:** I changed my cassette and lost the skewer nut off the back. I traded for the front nut and [zip-tied the bastard on](/euro-trip-losing-an-axel-nut/). It's the most scared I've been in years.
 
 ![](img/2019/05-gone-nuts/cover.jpg)
 
 ## Summary
 
-It's going great folks! Currently in East Europe in Czech, and I'm about to go on a rampage ticking off as many countries as possible. Camping equipment is gonna meet me in Prague, with a tarp and bivvy from [Alp Kit](https://www.alpkit.com/). Might talk about that next.
+It's going great folks! Currently in East Europe in Czech, and I'm about to go on a rampage ticking off as many countries as possible. Camping equipment is gonna meet me in Prague, with a tarp and bivy from [Alp Kit](https://www.alpkit.com/). Might talk about that next.
