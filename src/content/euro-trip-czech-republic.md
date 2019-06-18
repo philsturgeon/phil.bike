@@ -23,9 +23,9 @@ consistent but reasonable, topping off at 765m - much more friendly than the
 1,050m crossing further south. It was hot as balls, but the woods and timber
 plantations helped out a bunch.
 
-Once I was over the border it was a bonkers descent through potholes and share,
-then a more chill descent through farmland. The roads were all lined with trees,
-which really helped against the heat.
+Once I was over the border it was a bonkers descent through potholes, then a
+more chill descent through farmland. The roads were all lined with trees, which
+really helped against the heat.
 
 It was a crazy weekend of getting tested in the heat, fighting with tyre plugs
 and failing, so getting to my 36 hour rest stop was very welcome. The cute
@@ -156,8 +156,9 @@ didn't know shit.
 
 People in this town were pissed off with me. I was just trying to give away a
 few spare bike bits at a local bike shop and two different places were just
-shouting at me. Very bizarre, but my local makes tell me the older generation
-have a lot of trust issues with foreigners.
+shouting at me. Very bizarre. My local mates tell me the older generation have a
+lot of trust issues with foreigners, a layover from communist times. Fair
+enough.
 
 You can get in trouble either way. In the cities when you say "Mluvíte
 anglicky?" and they say "Of course!" almost annoyed that you would think they
@@ -190,14 +191,14 @@ staying in was ice cold.
 ![](img/2019/06-czech/bunker.jpg)
 
 It was another instance of tree-lined roads saving the day. It's not just the
-odd road - you'll find that anywhere in the world - but that *vast majority* of
+odd road - you'll find that anywhere in the world - but the *vast majority* of
 the roads. Main roads, side roads, farmers lanes, not roads, bike paths through
 the middle of a random field, whatever it is, there are trees.
 
 ![](img/2019/06-czech/tree-lined.jpg)
 
 This is not some old traditional thing either. You could image somebody making a
-case that more developed countries used ot have them, but they cut them down
+case that more developed countries used to have them, but they cut them down
 because something something storms + trees = car crashes, but nope, Czechs are out
 there actively planting trees everywhere.
 
@@ -213,7 +214,7 @@ the end of June!
 
 **[Donate Tree Money to Eden Project, $1 = 10 trees](https://edenprojects.org/user/philsturgeon/)**
 
-_Brits, if you are struggling to get your money into thaat site, you can offset
+_Brits, if you are struggling to get your money into that site, you can offset
 yourself on a monthly basis with [offset.earth](https://offset.earth/). I
 cancelled my barely used Hulu account and signed up for this, so its costing me nothing
 to offset myself and three other humans. Looking at my classic car loving parents._
