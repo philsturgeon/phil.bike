@@ -21,6 +21,7 @@ import {
   SiteTitle,
 } from '../styles/shared';
 import { PageContext } from '../templates/post';
+import { backgrounds } from 'polished';
 
 const HomePosts = css`
   @media (min-width: 795px) {
@@ -139,10 +140,12 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
                   config.title
                 )}
               </SiteTitle> */}
-              <SiteTitle>
+              <SiteTitle css={{ backgroundColor: 'rgba(0, 0, 0, 0.8)', padding: 10 }}>
                 {config.title}
               </SiteTitle>
-              <SiteDescription>{config.description}</SiteDescription>
+              <SiteDescription css={{ backgroundColor: 'rgba(0, 0, 0, 0.8)', padding: 10 }}>
+                {config.description}
+              </SiteDescription>
             </SiteHeaderContent>
             <SiteNav isHome />
           </div>

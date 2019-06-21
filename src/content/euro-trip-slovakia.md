@@ -63,11 +63,17 @@ NOPE!
 
 ## Ferry Bad Situation
 
-I hadn't looked too close at the map before and the road was actually a boat. It would have been a 20s swim without a bike, a short skull with a carbon bike, but completely impossible with a loaded up steel bike, even if I'd made a few trips, I was too tired and drunk for all that. Instead, it was an extra 70km.
+I hadn't looked too close at the map before and the road was actually a boat. It
+would have been a 20s swim without a bike, a short skull with a carbon bike, but
+completely impossible with a steel bike and gear. Even if I'd made a few trips,
+I was too tired and drunk for all that. Instead, there was a highway bridge I
+could get on up north, which was an extra 70km.
 
 ![](img/2019/06-slovakia/mapfuck.png)
 
-I'd [already done 127km](https://www.strava.com/activities/2452900743), the thought of 110km wasn't the most exciting thought, but shit at least I don't have to worry about getting to Vienna too early!
+I'd [already done 127km](https://www.strava.com/activities/2452900743), so the
+thought of 110km wasn't filling me with happiness, but at least I didn't have to
+worry about getting to Vienna too early!
 
 Heading north I just settled into the fact this was happening. I popped on an audiobook to try and help pass the night, and the first thing to come on was Cadel Evans, _The Art of Cycling_. The first few minutes were all about how cyclists are very particular types, who care a lot about everything being just right, their bike being tuned just so, their socks matching and pulled up to the same exact level... I'm not even waring any socks, they're in the bivy bag I bailed on, and I'm wearing hiking shoes and full length clothes with no chammy which already hurts, because I don't dare stop: the little fucks were still out in force.
 
@@ -75,15 +81,15 @@ I sweated my way north for about an hour until I passed a hotel with a security 
 
 > Sorry sir, we fully booked, there is wedding!
 
-Fair enough! This failure did point out one thing though, hotels are open to the idea of you buzzing them at 3am looking for a room.
+Fair enough! This failure did point out one thing though, hotels are open to the idea of you buzzing them at 3am looking for a room. 😲
 
-Another 30 minutes of riding and I found a place, knocked on the door, and he had a room!
+Another 30 minutes of riding and I found a place, knocked on the door, and he had a vacancy!
 
 > Him: "For the bike, you can leave with me?"
 >
 > Me: "Leave it anywhere you like mate, I hate it."
 
-I was so hungry and not in a great spot, but luckily I had that backup petrol station beer, and a shower, and everything was good with the world again. A 1 hour breakfast buffet sorted me out, and it was a fun ride through the swamp back to the ferry.
+I was so hungry and not in a great spot, but luckily I had a beer from the petrol station, a shower, and everything was good with the world again. A 1 hour breakfast buffet sorted me out, and it was a fun ride through the swamp back to the ferry.
 
 ![A photograph of the river crossing the the next day.](img/2019/06-slovakia/ferry.jpg)
 
@@ -91,9 +97,7 @@ See, it really wasn't far!
 
 https://www.instagram.com/p/ByxRTFGlGTB/
 
-[Then onwards, to Vienna](https://www.strava.com/activities/2454822090)!
-
-Austria, Country #12.
+[Then onwards, to Vienna](https://www.strava.com/activities/2454822090). Austria, Country #12!
 
 After rinsing out the bivy and clearing out all the dead mosqutios from INSIDE
 IT, I shipped it home with a few other bits and bobs I wasn't using. I'm sure
@@ -106,7 +110,7 @@ tripod to keep it elevated above my legs so they couldn't chew through if the
 net got close, but eventually convinced myself that I was describing a tent. So
 I bought a damn tent.
 
-Yes also hammocks are nice but I cannot rely on trees where I'm heading. Further south!
+Yes also hammocks are nice but I cannot rely on trees where I'm heading.
 
 _Remember to sponsor this trip and all the dumb stories that come with it by [donating
 to reforestation](/trees)!_

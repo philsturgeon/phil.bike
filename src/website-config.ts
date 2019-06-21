@@ -32,7 +32,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   logo: '',
   title: 'Phil.Bike',
-  description: 'One idiot and his bike, cycling across Europe.',
+  description: 'The Misadventures of Crashy McCiderface, On Tour in Europe',
   coverImage: 'img/blog-cover.jpg',
   lang: 'en',
   siteUrl: 'https://phil.bike',

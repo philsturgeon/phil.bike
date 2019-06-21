@@ -41,6 +41,6 @@ I'm not expecting NYC to go full on Dutch with special bike roads, where cars ar
 
 ![](img/nyc-protected-bike-lanes/fietsstraat.png)_A *fietsstraat* (bike street) where bicycles are the main form of transport and cars are considered “guests”._
 
-Look out for this sort of scenario friends. [Ride with a loudspeaker](/cycle-with-a-loudspeaker/) to keep some of the bastards off you, as I can say it's kept me out of trouble plenty the last few months. I'm lucky this has been my first major in NYC in four years of being here.
+Look out for this sort of scenario friends. Ride with a loudspeaker to keep some of the bastards off you, as I can say it's kept me out of trouble plenty the last few months. I'm lucky this has been my first major in NYC in four years of being here.
 
 Anyway, I have four weeks in a boot before I can take my brand new Cannondale CAADX out, which should coincide with my first cyclocross race. Let's see how many bones I can break doing that with sod all practice! :D
