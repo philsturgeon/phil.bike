@@ -26,4 +26,11 @@ Trees soak up some of the CO2 we're constantly pumping out, help retain water, s
 
 Even if you're fine with living in a barren world with vanishing fertile soil causing rapidly creeping desertification interspersed with mass flooding from a busted water cycle, and rapid cycle of destroying whatever woodland has not already arbitrarily caught on fire in order to make more farmland, think about how much better it is riding through woods than open fields.
 
-Before the end of June I want to hit 5,000 trees, and in July we're gonna ramp things up a bit. Don't wait for July, start [donating now](https://edenprojects.org/user/philsturgeon/)!
+Before the end of June I want to hit 5,000 trees, so start [donating now](https://edenprojects.org/user/philsturgeon/)!
+
+After you've donated, forward the confirmation/receipt to hey@phil.bike and I'll top up the total.
+
+- [Michael Moussa](@michaelmoussa) - 1,000
+- [Ivan Habunek](https://twitter.com/ihabunek) - 250
+- **Total** 1,250
+- **Remaining** 3,750
