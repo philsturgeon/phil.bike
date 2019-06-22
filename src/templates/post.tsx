@@ -190,7 +190,6 @@ export interface PageContext {
     };
     title: string;
     date: string;
-    draft?: boolean;
     tags: string[];
     author: {
       id: string;
@@ -368,7 +367,7 @@ export const query = graphql`
       }
     }
     relatedPosts: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: [$primaryTag] }, draft: { ne: true } } }
+      filter: { frontmatter: { tags: { in: [$primaryTag] } } }
       limit: 3
     ) {
       totalCount

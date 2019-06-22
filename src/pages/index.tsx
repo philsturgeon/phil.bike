@@ -154,13 +154,7 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
           <div css={inner}>
             <div css={[PostFeed, PostFeedRaise]}>
               {props.data.allMarkdownRemark.edges.map(post => {
-                // filter out drafts in production
-                return (
-                  (post.node.frontmatter.draft !== true ||
-                    process.env.NODE_ENV !== 'production') && (
-                    <PostCard key={post.node.fields.slug} post={post.node} />
-                  )
-                );
+                return <PostCard key={post.node.fields.slug} post={post.node} />
               })}
             </div>
           </div>
@@ -197,7 +191,6 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC },
-      filter: { frontmatter: { draft: { ne: true } } },
       limit: 1000,
     ) {
       edges {
@@ -207,7 +200,6 @@ export const pageQuery = graphql`
             title
             date
             tags
-            draft
             image {
               childImageSharp {
                 fluid(maxWidth: 3720) {

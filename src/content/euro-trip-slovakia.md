@@ -5,15 +5,25 @@ title: "Botched Bivy Camping in Slovakia"
 image: img/2019/06-slovakia/cover.jpg
 date: 2019-06-20
 tags:
-- europe
 - exploring
+- europe
 - slovakia
 - touring
 ---
 
-The last stop in my [Czech crossing](/euro-trip-czech-republic/) was Brno, and I struggled leaving. I wandered around all morning with the bike doing chores. The priority was to find some camping equipment after kit I ordered bounced off Prague and went back to Germany for unknown reasons. I found a great tarp and bivy, so after some lunch, and a beer with a police & soldier couple who'd just bought matching rollerskates, I finally hauled myself on the bike and headed south for Slovakia.
+The last stop in my [Czech crossing](/euro-trip-czech-republic/) was Brno, and I
+struggled leaving, it was so nice, and hot, and I ended up having lunch and a
+beer with a police & soldier couple who'd just bought matching rollerskates. I found
+some camping equipment and eventually started riding off for Slovakia to give it a try.
 
-It was really hot, but everywhere was pretty, so I didn't mind. The camping store had life straws so for the first time in ages I've not been worried about water. Didn't even care when I ran out of road due to rally.
+The tarp and bivy I ordered bounced off Prague and went back to Germany for
+unknown reasons, but I found some pretty good stuff in Brno. It took two stores
+but I got lines, a few ultralite stakes for tarping without trees or other stuff
+to tie to, and I already haver a good sleeping pad.
+
+It was really hot, but everywhere was pretty, so I didn't mind. The camping
+store had life straws so for the first time in ages I've not been worried about
+water. Didn't even care when I ran out of road due to rally.
 
 https://www.instagram.com/p/Byu4RSqFuD6/
 

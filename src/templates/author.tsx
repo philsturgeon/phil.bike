@@ -115,9 +115,7 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
 
   const edges = props.data.allMarkdownRemark.edges.filter(
     edge => {
-      const isDraft = (edge.node.frontmatter.draft !== true ||
-        process.env.NODE_ENV === 'development');
-      return isDraft && edge.node.frontmatter.author && edge.node.frontmatter.author.id === author.id;
+      return edge.node.frontmatter.author && edge.node.frontmatter.author.id === author.id;
     }
   );
   const totalCount = edges.length;
@@ -268,7 +266,6 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { draft: { ne: true } } },
       sort: { fields: [frontmatter___date], order: DESC },
       limit: 2000,
     ) {
@@ -280,7 +277,6 @@ export const pageQuery = graphql`
             title
             tags
             date
-            draft
             image {
               childImageSharp {
                 fluid(maxWidth: 3720) {
