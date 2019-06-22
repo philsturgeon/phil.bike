@@ -5,9 +5,9 @@ title: "French Alps to Italy via Colle di Tende"
 image: img/2019/05-colle-di-tende/cover.jpg
 date: 2019-05-09
 tags:
+- europe
 - exploring
 - touring
-- europe
 - france
 - alps
 - italy

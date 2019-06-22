@@ -1,12 +1,12 @@
 ---
 layout: post
 author: Phil
-title: "Euro Trip: Slovakia"
+title: "Botched Bivy Camping in Slovakia"
 image: img/2019/06-slovakia/cover.jpg
 date: 2019-06-20
 tags:
-- exploring
 - europe
+- exploring
 - slovakia
 - touring
 ---

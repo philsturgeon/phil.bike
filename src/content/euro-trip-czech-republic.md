@@ -5,8 +5,8 @@ title: "Euro Trip: Czech Republic"
 image: img/2019/06-czech/woods.jpg
 date: 2019-06-16
 tags:
-- exploring
 - europe
+- exploring
 - czech
 - touring
 ---
