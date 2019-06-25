@@ -8,6 +8,18 @@ tags:
 - environment
 ---
 
+
+<div>
+  <p> This month I'm trying to get ~5,000 trees planted with <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>, which means getting you lot to throw in $500. Next month we'll do even more.</p>
+
+  <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
+  0 <progress id="trees-planted" max="5000" value="1250">1,250 trees</progress> 5,000<br>
+  <br>
+  <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
+</div>
+
+<hr>
+
 Living on a bike and riding around the place without a car you'd think your carbon footprint was pretty low, but I did some math and mine is still awful. The average American pumps 50,000 lb of CO2 into the air annually, which is about 4,100 a month, and about 140 lb a day. In contrast, [bike tour life](/euro-trip-two-months/) creates 40 lb a day from hotels and 15 lb a day from meals ([source](https://carbonfund.org/how-we-calculate/)), which is about 1,650 lb a month.
 
 By camping on the weekends I can get down from 1,650 to 1,250 a month. Doing all of this only gets me down to 1/4th of the average person. Avoiding CO2 is hard, and everyone needs to do what they can. [Calculating your footprint](https://carbonfund.org/calculate-your-footprint/) is a good start, and reducing how much you output is the next step.
