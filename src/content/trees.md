@@ -13,7 +13,7 @@ tags:
   <p> This month I'm trying to get ~5,000 trees planted with <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>, which means getting you lot to throw in $500. Next month we'll do even more.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="5000" value="1250">1,250 trees</progress> 5,000<br>
+  0 <progress id="trees-planted" max="5000" value="1530">1,530 trees</progress> 5,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -38,11 +38,13 @@ Trees soak up some of the CO2 we're constantly pumping out, help retain water, s
 
 Even if you're fine with living in a barren world with vanishing fertile soil causing rapidly creeping desertification interspersed with mass flooding from a busted water cycle, and rapid cycle of destroying whatever woodland has not already arbitrarily caught on fire in order to make more farmland, think about how much better it is riding through woods than open fields.
 
-Before the end of June I want to hit 5,000 trees, so start [donating now](https://edenprojects.org/user/philsturgeon/)!
+Before the end of June I want to hit 5,000 trees, so start [donating now](https://edenprojects.org/user/philsturgeon/), and/or set up a monthly subscription with [Offset Earth](https://offset.earth/).
 
-After you've donated, forward the confirmation/receipt to hey@phil.bike and I'll top up the total.
+After you've donated, forward the confirmation/receipt to hey@phil.bike or let me know on [@philsturgeon](https://twitter.com/philsturgeon) and I'll top up the total.
 
 - [Michael Moussa](@michaelmoussa) - 1,000
 - [Ivan Habunek](https://twitter.com/ihabunek) - 250
-- **Total** 1,250
-- **Remaining** 3,750
+- [Simon Maddox](https://twitter.com/simonmaddox) - 100
+- [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription](https://offset.earth/) 🏅)
+- **Total** 1,530
+- **Remaining** 3,470
