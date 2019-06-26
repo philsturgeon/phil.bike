@@ -10,10 +10,10 @@ tags:
 
 
 <div>
-  <p> This month I'm trying to get ~5,000 trees planted with <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>, which means getting you lot to throw in $500. Next month we'll do even more.</p>
+  <p>We got 5,000 donated in June, now we are gonna double that for July! 10,000 trees planted via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>, means getting you lot to throw in $1,000. Gimme that $10. Tech bros, gimme that $100.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="5000" value="1530">1,530 trees</progress> 5,000<br>
+  0 <progress id="trees-planted" max="10000" value="0">0 trees</progress> 10,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -42,9 +42,19 @@ Before the end of June I want to hit 5,000 trees, so start [donating now](https:
 
 After you've donated, forward the confirmation/receipt to hey@phil.bike or let me know on [@philsturgeon](https://twitter.com/philsturgeon) and I'll top up the total.
 
+## July 2019
+
+- **Goal** 10,000
+- **Total** 0
+- **Remaining** 10,000
+
+## June 2019
+
 - [Michael Moussa](@michaelmoussa) - 1,000
 - [Ivan Habunek](https://twitter.com/ihabunek) - 250
 - [Simon Maddox](https://twitter.com/simonmaddox) - 100
 - [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription](https://offset.earth/) 🏅)
-- **Total** 1,530
-- **Remaining** 3,470
+- [Adam Heim](https://twitter.com/truckingsim) - 3,470 🏆
+
+- **Goal** 5,000
+- **Total** 5,000
