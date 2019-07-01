@@ -44,9 +44,17 @@ After you've donated, forward the confirmation/receipt to hey@phil.bike or let m
 
 ## July 2019
 
+In the last few weeks so many people have helped me on my trip, that I'm starting to donate on their behalf. For example, a Bosnian man heard me struggling to order some food in German, so he played translator and had a chat with me about my trip, his visit to Dover for work, and after he want back to his mate he sent me over a lemonade!! Two bike shops now have refused my money too, in Hungary and Serbia. They just want to help me get where I'm going. 
+
+- [Donner Bikes](https://www.facebook.com/donnerbike/about/) (Kaposvár, Hungary) - 250
+- [Invicta Bikeshop](http://invictabike.rs/) (Novi Sad, Serbia) - 250
+- Lemonade Man - 20
+- [Alex Pestell](https://twitter.com/unlikenesses) - 500
+- [Srdjan Vranac](https://vranac.io/) - 500
+
 - **Goal** 10,000
-- **Total** 0
-- **Remaining** 10,000
+- **Total** 1,520
+- **Remaining** 8,480
 
 ## June 2019
 
@@ -56,5 +64,7 @@ After you've donated, forward the confirmation/receipt to hey@phil.bike or let m
 - [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription](https://offset.earth/) 🏅)
 - [Adam Heim](https://twitter.com/truckingsim) - 3,470 🏆
 
+_Threw in 1,000 trees myself to keep the 5-to-1 matching promise._
+
 - **Goal** 5,000
-- **Total** 5,000
+- **Total** 6,000
