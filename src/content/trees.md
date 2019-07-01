@@ -10,10 +10,10 @@ tags:
 
 
 <div>
-  <p>We got 5,000 donated in June, now we are gonna double that for July! 10,000 trees planted via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>, means getting you lot to throw in $1,000. Gimme that $10. Tech bros, gimme that $100.</p>
+  <p>We got 5,000 donated in June, now we are gonna double that for July: aiming to plant 10,000 trees via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="10000" value="0">0 trees</progress> 10,000<br>
+  0 <progress id="trees-planted" max="10000" value="1520">1,520 trees</progress> 10,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -49,7 +49,7 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [Donner Bikes](https://www.facebook.com/donnerbike/about/) (Kaposvár, Hungary) - 250
 - [Invicta Bikeshop](http://invictabike.rs/) (Novi Sad, Serbia) - 250
 - Lemonade Man - 20
-- [Alex Pestell](https://twitter.com/unlikenesses) - 500
+- [@unlikenesses](https://twitter.com/unlikenesses) - 500
 - [Srdjan Vranac](https://vranac.io/) - 500
 
 - **Goal** 10,000
