@@ -13,7 +13,7 @@ tags:
   <p>We got 5,000 donated in June, now we are gonna double that for July: aiming to plant 10,000 trees via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="10000" value="1520">1,520 trees</progress> 10,000<br>
+  0 <progress id="trees-planted" max="10000" value="2470">2,470 trees</progress> 10,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -51,10 +51,12 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - Lemonade Man - 20
 - [@unlikenesses](https://twitter.com/unlikenesses) - 500
 - [Srdjan Vranac](https://vranac.io/) - 500
+- [Kat Zień](https://twitter.com/kasiazien) - 700
+- [Damien Alexandre](https://twitter.com/damienalexandre) - 250
 
 - **Goal** 10,000
-- **Total** 1,520
-- **Remaining** 8,480
+- **Total** 2,470
+- **Remaining** 7,530
 
 ## June 2019
 
