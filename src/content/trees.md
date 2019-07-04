@@ -13,7 +13,7 @@ tags:
   <p>We got 5,000 donated in June, now we are gonna double that for July: aiming to plant 10,000 trees via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="10000" value="2470">2,470 trees</progress> 10,000<br>
+  0 <progress id="trees-planted" max="10000" value="2650">2,650 trees</progress> 10,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -38,7 +38,7 @@ Trees soak up some of the CO2 we're constantly pumping out, help retain water, s
 
 Even if you're fine with living in a barren world with vanishing fertile soil causing rapidly creeping desertification interspersed with mass flooding from a busted water cycle, and rapid cycle of destroying whatever woodland has not already arbitrarily caught on fire in order to make more farmland, think about how much better it is riding through woods than open fields.
 
-Before the end of June I want to hit 5,000 trees, so start [donating now](https://edenprojects.org/user/philsturgeon/), and/or set up a monthly subscription with [Offset Earth](https://offset.earth/).
+Before the end of June I want to hit 5,000 trees, so start [donating now](https://edenprojects.org/user/philsturgeon/), and/or set up a monthly subscription with [Offset Earth][offsetearth].
 
 After you've donated, forward the confirmation/receipt to hey@phil.bike or let me know on [@philsturgeon](https://twitter.com/philsturgeon) and I'll top up the total.
 
@@ -53,20 +53,23 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [Srdjan Vranac](https://vranac.io/) - 500
 - [Kat Zień](https://twitter.com/kasiazien) - 700
 - [Damien Alexandre](https://twitter.com/damienalexandre) - 250
+- [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription][offsetearth] 🏅)
 
 - **Goal** 10,000
-- **Total** 2,470
-- **Remaining** 7,530
+- **Total** 2,650
+- **Remaining** 7,350
 
 ## June 2019
 
 - [Michael Moussa](@michaelmoussa) - 1,000
 - [Ivan Habunek](https://twitter.com/ihabunek) - 250
 - [Simon Maddox](https://twitter.com/simonmaddox) - 100
-- [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription](https://offset.earth/) 🏅)
+- [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription][offsetearth] 🏅)
 - [Adam Heim](https://twitter.com/truckingsim) - 3,470 🏆
 
 _Threw in 1,000 trees myself to keep the 5-to-1 matching promise._
 
 - **Goal** 5,000
 - **Total** 6,000
+
+[offsetearth]: https://offset.earth/?r=5d01f2ed12ae7a358b75fdd7
