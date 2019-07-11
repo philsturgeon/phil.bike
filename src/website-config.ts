@@ -20,13 +20,9 @@ export interface WebsiteConfig {
    */
   showSubscribe: boolean;
   /**
-   * create a list on mailchimp and then create an embeddable signup form. this is the form action
+   * create a list on tinyletter and then create an embeddable signup form. this is the form action
    */
-  mailchimpAction?: string;
-  /**
-   * this is the hidden input field name
-   */
-  mailchimpName?: string;
+  tinyletterAction?: string;
 }
 
 const config: WebsiteConfig = {
@@ -39,9 +35,8 @@ const config: WebsiteConfig = {
   twitter: 'https://twitter.com/philsturgeon',
   instagram: 'https://instagram.com/philsturgeon',
   strava: 'https://www.strava.com/athletes/philsturgeon',
-  showSubscribe: false,
-  // mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  // mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+  showSubscribe: true,
+  tinyletterAction: 'https://tinyletter.com/CrashyMcCiderface',
 };
 
 export default config;

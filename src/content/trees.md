@@ -13,7 +13,7 @@ tags:
   <p>We got 5,000 donated in June, now we are gonna double that for July: aiming to plant 10,000 trees via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="10000" value="2650">2,650 trees</progress> 10,000<br>
+  0 <progress id="trees-planted" max="10000" value="5550">5,500 trees</progress> 10,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -24,7 +24,9 @@ Living on a bike and riding around the place without a car you'd think your carb
 
 By camping on the weekends I can get down from 1,650 to 1,250 a month. Doing all of this only gets me down to 1/4th of the average person. Avoiding CO2 is hard, and everyone needs to do what they can. [Calculating your footprint](https://carbonfund.org/calculate-your-footprint/) is a good start, and reducing how much you output is the next step.
 
-Too many people hope science is gonna fix it. Billionares and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates) with big old turbines, even looking at turning that byproduct into fuel, but that wont be enough. We need to reforest as much of the planet as possible too. The UK was down to about 6% woodland not so long ago. Right now we're at 13% which isn't great either, but [there are projects on the go](https://www.citylab.com/environment/2018/01/northern-forest-united-kingdom/550025/). France is 31% which is somewhat ok, and Finland is straight crushing it with 71%. Good job Finland, but so many developing countries could do with extra help!
+Too many people hope science is gonna fix it. Billionaires and scientists are [scaling up carbon trapping programs](https://www.theguardian.com/environment/2018/feb/04/carbon-emissions-negative-emissions-technologies-capture-storage-bill-gates) with big old turbines, even looking at turning that byproduct into fuel, but that wont be enough. We need to [reforest an area the size of the USA](https://theconversation.com/reforesting-an-area-the-size-of-the-us-needed-to-help-avert-climate-breakdown-say-researchers-are-they-right-119842) as quickly as possible. Why the urgency? We're rapidly reaching a point where large areas of the planet will be too hot to plant forests, so we need to get it done now.
+
+The UK was down to about 6% woodland not so long ago. Right now we're at 13% which isn't great either, but [there are projects on the go](https://www.citylab.com/environment/2018/01/northern-forest-united-kingdom/550025/). France is 31% which is somewhat ok for a developed country, and Finland is straight crushing it with 71%. Good job Finland, but so many developing countries could do with extra help!
 
 The [Eden Project](https://edenprojects.org/) are working to reforest Nepal, Madagascar, Haiti, Indonesia, and Mozambique, and I would like y'all to help me throw some money at them.
 
@@ -46,6 +48,7 @@ After you've donated, forward the confirmation/receipt to hey@phil.bike or let m
 
 In the last few weeks so many people have helped me on my trip, that I'm starting to donate on their behalf. For example, a Bosnian man heard me struggling to order some food in German, so he played translator and had a chat with me about my trip, his visit to Dover for work, and after he want back to his mate he sent me over a lemonade!! Two bike shops now have refused my money too, in Hungary and Serbia. They just want to help me get where I'm going. 
 
+- [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription][offsetearth] 🏅)
 - [Donner Bikes](https://www.facebook.com/donnerbike/about/) (Kaposvár, Hungary) - 250
 - [Invicta Bikeshop](http://invictabike.rs/) (Novi Sad, Serbia) - 250
 - Lemonade Man - 20
@@ -53,15 +56,17 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [Srdjan Vranac](https://vranac.io/) - 500
 - [Kat Zień](https://twitter.com/kasiazien) - 700
 - [Damien Alexandre](https://twitter.com/damienalexandre) - 250
-- [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription][offsetearth] 🏅)
+- [Jordan Kasper](https://twitter.com/jakerella) - 100 ([monthly subscription][offsetearth] 🏅)
+- [Haso Keric](https://twitter.com/hasokeric) - 250
+- [Brad Fitzpatrick](https://twitter.com/bradfitz) - 2,500 🏆
 
 - **Goal** 10,000
-- **Total** 2,650
-- **Remaining** 7,350
+- **Total** 5,500
+- **Remaining** 4,500
 
 ## June 2019
 
-- [Michael Moussa](@michaelmoussa) - 1,000
+- [Michael Moussa](https://twitter.com/michaelmoussa) - 1,000
 - [Ivan Habunek](https://twitter.com/ihabunek) - 250
 - [Simon Maddox](https://twitter.com/simonmaddox) - 100
 - [Gary Hockin](https://twitter.com/GeeH) - 180 ([monthly subscription][offsetearth] 🏅)
