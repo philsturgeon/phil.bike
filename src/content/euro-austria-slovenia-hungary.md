@@ -1,16 +1,16 @@
 ---
 layout: post
 author: Phil
-title: Hungarian Heatwave, Serbian Go Karting and Bosnian Beauty
-image: img/2019/07-touring-tubeless/cover.jpg
-date: 2019-07-09
+title: Austria, Slovenia & Hungary
+image: img/2019/07-austria-slovenia-catchup/cover.jpg
+date: 2019-07-18
 tags:
 - touring
 - gear
 - europe
 ---
 
-Since the madness in [Slovakia](/euro-trip-slovakia/) I've gone a bit quiet on the place-based blogging. I've moaned about how bad the [Garmin Vector 3 pedals](/garmin-vector-3/) are, rewritten my [Touring Tubeless](/touring-tubeless/) article, and talked a lot about reforestation. Let's talk about Austria, Slovenia, and Hungary.
+Since the madness in [Slovakia](/euro-trip-slovakia/) I've gone a bit quiet on the place-based blogging. I've moaned about how bad the [Garmin Vector 3 pedals](/garmin-vector-3/) are, rewritten my [Touring Tubeless](/touring-tubeless/) article, and talked a lot about [reforestation](/trees). Let's talk about Austria, Slovenia, and Hungary.
 
 ## Austria
 
@@ -52,7 +52,7 @@ Like a lot of borders in Europe there is [a fuck-off climb between Austria and S
 
 My hotel was spectacularly baller. "The pool is out back" they said...
 
-![](img/07-austria-slovenia-catchup/pool.jpg)
+![](img/2019/07-austria-slovenia-catchup/pool.jpg)
 
 It turns out Slovenians are pretty serious about their water parks, and did I pick an awesome place to wait for my tent. The next day I checked out, and jumped the turn-style to hang out in the pool until the DHL man showed up. That yellow slide... good lord. 
 
@@ -62,7 +62,7 @@ He showed up at about 2pm, then I set off for Hungary.
 
 To make up for all the arsing about in Austria waiting for this tent, and so I could hit my Croatia deadline (boat stuff) I put in a serious day on the bike. I covered 174km with my bags the heaviest they've ever been, and it was brutal. 
 
-Hnugary is a wonderful country with many amazing places to visit, but I did not visit them. I was going through small villages, beat up old cars rusting everywhere, kids running around in the street with no shoes, and skinny dogs roaming around. That in itself was fine, the kids were really excited to see me riding by and ran along after me shouting stuff out, it was pretty cool. A turtle was also saved from going under a truck. 
+Hungary is a wonderful country with many amazing places to visit, but I did not visit them. I was going through small villages, beat up old cars rusting everywhere, kids running around in the street with no shoes, and skinny dogs roaming around. That in itself was fine, the kids were really excited to see me riding by and ran along after me shouting stuff out, it was pretty cool. A turtle was also saved from going under a truck. 
 
 https://twitter.com/philsturgeon/status/1143261823845769217
 
@@ -74,6 +74,8 @@ gutting about this specifically. Every eastern european country I go into is a b
 It's dumb. Accidents happen everywhere. Two friends friends had been killed that week in NYC, and that's "the best city in the world". Maybe that was playing on my mind too, but I was feeling exceptionally vulnerable on the road with a bunch of cars who were not used to bikes. My stomach was turning, and I just felt shaky. Some of this was the heat, some of this was dehydration, so I decided to fix the easy things first, and pulled into an ice cream parlor. 
 
 A few more miles and I found an ice cream shop with home-made elderflower lemonade, chilled out a bit, did a bit of Twitter therapy, filled up the 2L water bladder, and we were right back on track. 
+
+![](img/2019/07-austria-slovenia-catchup/drinks.jpg)
 
 All my cocking about meant it was rather late, and I was not up for camping with all the wild dogs and general fear of death, so I was riding around rural nowhere looking for hotels. The first hotel had been demolished. The second was full. The third was 30km extra and there were two ways to get there. 
 
@@ -94,12 +96,14 @@ https://www.instagram.com/p/BzK2goiFYDo/
 
 After a rough afternoon of hot climbs, but luckily the road to the Serbian border [was flat as a pancake](https://www.strava.com/activities/2481795854) with a ferry in the middle, then an even flatter pancake. 
 
-![62m in 30km is basically unheard of and I don't even think the 62km was real](img/07-austria-slovenia-catchup/smooth.jpg)
+![62m in 30km is basically unheard of and I don't even think the 62km was real](img/2019/07-austria-slovenia-catchup/smooth.jpg)
 
 Although the terrain was nice and flat, the temperature was trying to murder everyone around. France was getting all the headlines for the 40C+ temperature, but it was bonkers everywhere that week, and Hungary was rough. I was hiding under any sizeable tree I could find every 20-30 minutes, drinking from every water source I could find (thank you Sawyer squeeze filter!), and generally having a struggle.
 
 https://www.instagram.com/p/Bz-LSqOlujO/
 
 My struggle ended with an amazing guesthouse: [Locomotiv Vendégház](https://www.booking.com/hotel/hu/locomotiv-vendeghaz.en-gb.html). I had unwittingly wandered onto the Euro Velo 6 route, which I found out when I met a bunch of bikepackers there, touring with kids as a group of friends. They were from Canadia and Ireland, and we drank beers and ate BBQ and hung out with the awesome owner of the guesthouse too. Cannot recommend this place enough if you're floating around the Hungarian/Serbian/Croatian corner.
+
+![Best guesthouse had a clothes line for stanky kit](img/2019/07-austria-slovenia-catchup/drier.jpg)
 
 That was a crazy fortnite. 
