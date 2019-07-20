@@ -13,7 +13,7 @@ tags:
   <p>We got 5,000 donated in June, now we are gonna double that for July: aiming to plant <s>10,000</s> 20,000 trees via <a href="https://edenprojects.org/user/philsturgeon/">Eden Projects</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="20000" value="9410">9,410 trees</progress> 20,000<br>
+  0 <progress id="trees-planted" max="20000" value="11860">11,860 trees</progress> 20,000<br>
   <br>
   <a href="https://edenprojects.org/user/philsturgeon/" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -67,10 +67,14 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [Heidi Hansen](https://twitter.com/jungledev) - 1,000
 - [Alan Reid](https://twitter.com/alan_reid) - 310
 - Angie & Andy - 100
+- Emma Jane - 100
+- Mum - 600
+- Zuzanna - 2,500
+- [Juozas Kaziukėnas](https://twitter.com/juokaz) - 250
 
 - **Goal** <s>10,000</s> 20,000
-- **Total** 9,410
-- **Remaining** 10,590
+- **Total** 11,860
+- **Remaining** 8,140
 
 ## June 2019
 
