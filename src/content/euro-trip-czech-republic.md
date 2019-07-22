@@ -208,13 +208,6 @@ If we want to avoid a future where we all have to live in a nuclear bunker and
 fight each other for scraps of rat meat while the whole world burns around us,
 we should all be out there planting more trees.
 
-[So lets do that](https://edenprojects.org/user/philsturgeon/). It's $1 for 10
-trees so throw in $10 and we get 100 trees. I want to get to 5,000 trees before
-the end of June!
-
-**[Donate Tree Money to Eden Project, $1 = 10 trees](https://edenprojects.org/user/philsturgeon/)**
-
-_Brits, if you are struggling to get your money into that site, you can offset
-yourself on a monthly basis with [offset.earth](https://offset.earth/). I
-cancelled my barely used Hulu account and signed up for this, so its costing me nothing
-to offset myself and three other humans. Looking at my classic car loving parents._
+[So lets do that](https://offset.earth/philsturgeon). That charity is planting
+trees all over for about $0.10 a tree, so please donate at least 100 trees. I
+want to get to 5,000 trees before the end of June!

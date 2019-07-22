@@ -54,7 +54,7 @@ My hotel was spectacularly baller. "The pool is out back" they said...
 
 ![](img/2019/07-austria-slovenia-catchup/pool.jpg)
 
-It turns out Slovenians are pretty serious about their water parks, and did I pick an awesome place to wait for my tent. The next day I checked out, and jumped the turn-style to hang out in the pool until the DHL man showed up. That yellow slide... good lord. 
+It turns out Slovenians are pretty serious about their water parks, and did I pick an awesome place to wait for my tent. The next day I checked out, and jumped the turn-style to hang out in the pool until the DHL delivery man showed up. That yellow slide... good lord. 
 
 He showed up at about 2pm, then I set off for Hungary.
 
@@ -62,16 +62,16 @@ He showed up at about 2pm, then I set off for Hungary.
 
 To make up for all the arsing about in Austria waiting for this tent, and so I could hit my Croatia deadline (boat stuff) I put in a serious day on the bike. I covered 174km with my bags the heaviest they've ever been, and it was brutal. 
 
-Hungary is a wonderful country with many amazing places to visit, but I did not visit them. I was going through small villages, beat up old cars rusting everywhere, kids running around in the street with no shoes, and skinny dogs roaming around. That in itself was fine, the kids were really excited to see me riding by and ran along after me shouting stuff out, it was pretty cool. A turtle was also saved from going under a truck. 
+Hungary is a wonderful country with many amazing places to visit, but I did not start off in any of them. I was going through small villages in the south west, with beat up old cars rusting everywhere, kids running around in the street barefoot, and skinny dogs roaming around. That in itself was ok, the kids were really excited to see me riding by and ran along after me shouting stuff out which was heart warming, and I saved a turtle from going under a truck!
 
 https://twitter.com/philsturgeon/status/1143261823845769217
 
-What sucked was seeing a dead cyclist in probably the 2nd or 3rd town, only 50km in. It spun me out really hard. There was a blanket over half of him, and from what I could see (without rubbernecking) it was an old man, old bike, T-boned by a car. The bike was bent back in half on itself so it seems like the car had pulled out and just folded the man over.
+What sucked was seeing a dead cyclist in probably the 2nd or 3rd town, only 50km in. It spun me out really hard. There was a blanket over half of him, and from what I could see it was an old man on an old bike, which had been T-boned by a car. The bike was bent back in half on itself so it seems like the car had pulled out and just folded the man over.
 
-I've seen dead bodies before, and I've seen cycling accidents before, but there was something particularly 
-gutting about this specifically. Every eastern european country I go into is a battle between what stupid images my brain has cast up after being drenched in stupid negative stereotypes, which are all then washed away by the awesome reality of that place. Maybe I was thinking "Ok no, this is the one. This is a bad one." 
+I've seen dead bodies before, and I've seen cycling accidents before, but there was something extra 
+gutting about this situation. As a "westerner", every Eastern European country I go into is a mental battle against the stupid negative stereotypes movies and TV has put into my brain. These stereotypes are always washed away by the awesome reality of that place, but after seeing a fellow cyclist run over, I was thinking "Ok no, this is the one. This is a bad one." 
 
-It's dumb. Accidents happen everywhere. Two friends friends had been killed that week in NYC, and that's "the best city in the world". Maybe that was playing on my mind too, but I was feeling exceptionally vulnerable on the road with a bunch of cars who were not used to bikes. My stomach was turning, and I just felt shaky. Some of this was the heat, some of this was dehydration, so I decided to fix the easy things first, and pulled into an ice cream parlor. 
+It's dumb. Accidents happen everywhere. The NYC bike community had been mourning the loss of two amazing people that week alone, and that's "the best city in the world". Maybe that was playing on my mind too, but I was feeling exceptionally vulnerable on the road with a bunch of cars who were not used to bikes. My stomach was turning, and I just felt shaky. Some of this was the heat, some of this was dehydration, so I decided to try and fix that easy stuff first. 
 
 A few more miles and I found an ice cream shop with home-made elderflower lemonade, chilled out a bit, did a bit of Twitter therapy, filled up the 2L water bladder, and we were right back on track. 
 
@@ -90,19 +90,19 @@ The was a 5500 calorie day thanks to all the headwinds, and I devastated the onl
 
 Next day was a slow start. It was a working Monday, so I bummed around Kaposvar doing an hours work per cafe, and luckily they have a bunch. The heat was fucking terrible so I was waiting for it to pass, and also looking for some bike help. In the anarchy the day before I bonked my wheel and it needed a bike shop to true it. I found one, and the guy was so nice! None of us spoke a matching language, but he told me I had too much weight on my wheels, which I did after picking up the extra gear, carrying the old pedals, carrying extra water, etc. The bike was nuts. 
 
-He trued the wheel, his wife even gave me a coke whilst I waited, then he flat out refused to accept any money. I'd already given him my full-sized toolkit-style steel allen-key set which I absolutely should not have been carrying, so I guess we were even! He gave me a look of pitty, like "you're not gonna make it", then [off I popped to the next town: Pečs](https://www.strava.com/activities/2480400648).
+He trued the wheel, his wife even gave me a coke whilst I waited, then he flat out refused to accept any money. I'd already given him my full-sized toolkit-style steel allen-key set which I absolutely should not have been carrying, so I guess we were even! He gave me a look of pity, like "you're not gonna make it", then [off I popped to the next town: Pečs](https://www.strava.com/activities/2480400648).
 
 https://www.instagram.com/p/BzK2goiFYDo/
 
-After a rough afternoon of hot climbs, but luckily the road to the Serbian border [was flat as a pancake](https://www.strava.com/activities/2481795854) with a ferry in the middle, then an even flatter pancake. 
+Getting to Pecs was a lot of climbing. It was all farmland then a beautiful national park, but it was hot and hard work. Luckily the next day I was heading for the Serbian border, and from there it is [flat as a pancake](https://www.strava.com/activities/2481795854), with a ferry in the middle, then an even flatter pancake. 
 
 ![62m in 30km is basically unheard of and I don't even think the 62km was real](img/2019/07-austria-slovenia-catchup/smooth.jpg)
 
-Although the terrain was nice and flat, the temperature was trying to murder everyone around. France was getting all the headlines for the 40C+ temperature, but it was bonkers everywhere that week, and Hungary was rough. I was hiding under any sizeable tree I could find every 20-30 minutes, drinking from every water source I could find (thank you Sawyer squeeze filter!), and generally having a struggle.
+Although the terrain was nice and flat, the temperature was trying to murder everyone. France was getting all the headlines for the 40C+ temperature, but it was bonkers everywhere that week, and Hungary was rough. I was hiding under any sizeable tree I could find every 20-30 minutes, drinking from every water source I could find (thank you Sawyer squeeze filter!), and generally having a struggle.
 
 https://www.instagram.com/p/Bz-LSqOlujO/
 
-My struggle ended with an amazing guesthouse: [Locomotiv Vendégház](https://www.booking.com/hotel/hu/locomotiv-vendeghaz.en-gb.html). I had unwittingly wandered onto the Euro Velo 6 route, which I found out when I met a bunch of bikepackers there, touring with kids as a group of friends. They were from Canadia and Ireland, and we drank beers and ate BBQ and hung out with the awesome owner of the guesthouse too. Cannot recommend this place enough if you're floating around the Hungarian/Serbian/Croatian corner.
+My struggle ended with an amazing guesthouse: [Locomotiv Vendégház](https://www.booking.com/hotel/hu/locomotiv-vendeghaz.en-gb.html). I had unwittingly wandered onto the Euro Velo 6 route, which I found out when I met a bunch of bikepackers there, touring with kids as a group of friends. They were from Canadia and Ireland, and we drank beers, made sangria, ate BBQ, and hung out with the awesome owner of the guesthouse too. Cannot recommend this place enough if you're floating around the Hungarian/Serbian/Croatian corner.
 
 ![Best guesthouse had a clothes line for stanky kit](img/2019/07-austria-slovenia-catchup/drier.jpg)
 
