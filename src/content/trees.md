@@ -13,7 +13,7 @@ tags:
   <p>We got 5,000 trees funded in June, now we are gonna double that for July: aiming to fund <s>10,000</s> 20,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="20000" value="14310">14,310 trees</progress> 20,000<br>
+  0 <progress id="trees-planted" max="20000" value="14530">14,530 trees</progress> 20,000<br>
   <br>
   <a href="https://offset.earth/philsturgeon" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -71,10 +71,12 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [Ryan Holder](https://twitter.com/ryannnh_) - 100
 - [Jerguš Lejko](https://twitter.com/jerguslejko) - 50`
 - [Simon Maddox](https://twitter.com/simonmaddox) - 150
+- Benjamin Kubs - 110
+- Timothy Habersack - 110
 
 - **Goal** <s>10,000</s> 20,000
-- **Total** 14,310
-- **Remaining** 5,690
+- **Total** 14,530
+- **Remaining** 5,470
 
 ## June 2019
 
