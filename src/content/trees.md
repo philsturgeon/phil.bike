@@ -69,7 +69,8 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [@inanimatt](https://twitter.com/inanimatt) - 200
 - [Neil Craig](https://twitter.com/tdp_org) - 100
 - [Ryan Holder](https://twitter.com/ryannnh_) - 100
-- [Jerguš Lejko](https://twitter.com/jerguslejko) - 50
+- [Jerguš Lejko](https://twitter.com/jerguslejko) - 50`
+- [Simon Maddox](https://twitter.com/simonmaddox) - 150
 
 - **Goal** <s>10,000</s> 20,000
 - **Total** 14,310
