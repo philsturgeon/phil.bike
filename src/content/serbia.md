@@ -11,7 +11,7 @@ tags:
 - serbia
 ---
 
-It's not my first time in Serbia, but this was a fantastic experience. I set off from the Hungarian side of the border after having breakfast with the other bikepackers at [Locomotiv Vendégház](https://www.booking.com/hotel/hu/locomotiv-vendeghaz.en-gb.html). 
+It's not my first time in Serbia, but this was a fantastic experience. I set off [from the Hungarian side](/austria-slovenia-hungary/) of the border after having breakfast with the other bikepackers at [Locomotiv Vendégház](https://www.booking.com/hotel/hu/locomotiv-vendeghaz.en-gb.html). 
 
 This was the first non-EU (Shengan Area) border crossing, so I was a little worried about that. As always the worry was misplaced, and everything was awesome. The exit booth person on the Hungarian side took me to a water fountain to top up my bottles, and the Serbian booth lady spoke perfect English but didn't have any questions. Off I went!
 
@@ -56,3 +56,5 @@ I didn't take the [easiest route out of Novi Sad](https://www.strava.com/activit
 After that was a straight shot to the Bosnian border! I went to a town called Badovinci and stocked up on food and drink, aiming to go to a camp site in the mess of River Drina meanders. It didn't seem to exist, so I carried on through Bosnian border control to find a wild camping spot! 
 
 That's another story. Bosnia was wild. Smash your email address in the subscribe box below, it's new! Please [support my fundraiser](/trees) too, need to get a few thousand more trees this month to hit the target!
+
+[![](img/2019/06-trees/tree-banks.jpg)](https://offset.earth/philsturgeon)
