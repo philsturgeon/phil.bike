@@ -74,8 +74,18 @@ Spending a bunch of time trying to save a tubeless setup is usually worth it, ev
 
 ## Bad Setups
 
-A bike shop in Madrid replaced my swiss-cheese Panracer with a tubeless tyre and used a shitty stem with a weird square of rubber jammed in there. When I originally saw that in the shop I thought "ha nice hack,
-whatever works" but that cowboy shit *didn't* work. The tube was leaking for a week and I was constantly pumping and replacing sealant thinking that I had just been hitting a lot of sharp buts, but I noticed some air escaping from the valve and when I tightened the lock ring on the valve stem the weird bit of rubber tore aware like wet paper and air was then flying out. 
+A bike shop in Madrid replaced my swiss-cheese Panracer with a tubeless tyre,
+but used a funny shaped vale stem that didn't sit flush with the inside of the rim. They shoved a
+flimsy bit of rubber in there to try and create a seal. 
+
+![Not really a washer like some valve stems have, just a thin piece of rubber](img/2019/07-touring-tubeless/rubber.jpg)
+
+When I originally saw that in the shop I thought "heh, whatever works!" but that
+cowboy shit *didn't* work. The tube was leaking for a week and I was constantly
+pumping and replacing sealant thinking that I had just been hitting a lot of
+sharp stuff. Whilst pumping I noticed some air escaping from the base of the
+valve stem, and when I tightened the lock ring the bit of rubber tore aware like
+wet paper and air was then flying out. 
 
 ![Two different stems, one square which didn't create a seal, one tapered which did](img/2019/07-touring-tubeless/stems.jpg)
 
@@ -96,6 +106,10 @@ The day after getting a [new wheel delivered and setup](/touring-logistics/), I 
 I popped into a bike shop to get some more sealant at one point, and used their air compressor to pump up. It had been fine riding for 10km that morning, but it was really low (maybe 40 PSI), and when I pumped it up to 60 PSI it sprung a loud and quick leak! Where better to happen than in a bike shop, so I grabbed the bottle of sealant which was right in front of my face, threw it in, paid the chap, and rode off. 
 
 Even if the sealant is only a week or two old, I am trying to make sure I always have a spare bottle, because a failure 
+
+## High and Dry
+
+When temperatures get into the mid 30C's (95F-ish), sealant can start to dry in a matter of days instead of weeks. I've seen some old forums recommending adding coolant to your sealant, or a 50/50 mixture of water and coolant. I've not tried this yet, but I am going to need to. It's hot as balls down in the Balkans and I'm out of spare sealant.
 
 ## Kit
 
