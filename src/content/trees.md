@@ -44,8 +44,6 @@ Start [donating now][offsetearth], and I strongly urge you to sign up for their 
 
 ## July 2019
 
-In the last few weeks so many people have helped me on my trip, that I'm starting to donate on their behalf. For example, a Bosnian man heard me struggling to order some food in German, so he played translator and had a chat with me about my trip, his visit to Dover for work, and after he want back to his mate he sent me over a lemonade!! Two bike shops now have refused my money too, in Hungary and Serbia. They just want to help me get where I'm going. 
-
 - [Gary Hockin](https://twitter.com/GeeH) - 180 (monthly 🏅)
 - [Donner Bikes](https://www.facebook.com/donnerbike/about/) (Kaposvár, Hungary) - 250
 - [Invicta Bikeshop](http://invictabike.rs/) (Novi Sad, Serbia) - 250
@@ -75,7 +73,7 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [Timothy Habersack](https://twitter.com/timotheus) - 110
 - [Bob](https://twitter.com/bopp) - 110
 - [Marc Qualie](https://twitter.com/marcqualie) - 180 (monthly 🏅)
-- Offset Eath Direct Donations - 14,612
+- [Offset.Earth Direct Donations](https://offset.earth/philsturgeon) - 14,612 (sorry there were so many!!)
 - **Goal** <s>10,000</s> <s>20,000</s> 40,000
 - **Total** 29,522
 - **Remaining** 10,478

@@ -3,7 +3,7 @@ layout: post
 author: Phil
 title: Going Wild in Bosnia
 image: img/2019/07-bosnia/cover.jpg
-date: 2019-07-22
+date: 2019-07-26
 tags:
 - touring
 - gear
@@ -145,9 +145,9 @@ I suggested they came back and we try again, and this time she fucked off at 40k
 
 ![](img/2019/07-bosnia/house.jpg)
 
-Went out for dinner and found a pub. I only had the money for one beer, but got talking to a chap who kept offering me beers, and offered me a place to stay. Turns out he was the landlord, motorbiker, ex-cyclist, and we talked for ages about touring, life, the universe, and everything. This guy was awesome, he even offered me the use of his garage and tools! He's talking about getting on booking.com so give it a look see if you are nearby, it's called [The Joker](https://www.google.com/maps/place/Joker/@43.6895342,17.0848862,16.62z/).
-
 If you are ever in Bosnia, head to the big lake by Tomislavgrad, called Buško Blato. It's a huge reservoir that gives Croatia hyroelectric power, and there's pretty much nobody there. It's absofuckinglutely beautiful. If it was in the USA it would be covered in boatwankers just being the worst, but it's perfect. I really liked the little channel off to the east near where I was staying.
+
+While I was there I Went out for dinner and found a pub. I only had the money for one beer, but got talking to a chap who kept offering me beers, and offered me a place to stay. Turns out he was the landlord, motorbiker, ex-cyclist, and we talked for ages about touring, life, the universe, and everything. This guy was awesome, he even offered me the use of his garage and tools! He's talking about getting on booking.com so give it a look see if you are nearby, it's called [The Joker](https://www.google.com/maps/place/Joker/@43.6895342,17.0848862,16.62z/).
 
 ![](img/2019/07-bosnia/sunset.jpg)
 
@@ -163,6 +163,6 @@ Border patrol was fine, then there was a long twisty cliff-edged descent with no
 
 And that was that! BIRTHDAY BOAT WEEK! 🙌
 
-_We're on a [tree planting spree](/trees). July we were aiming for 10,000, I bumped it up to 20,000, now we're at 45,000. Let's get to 50,000!_
+_We're on a [tree planting spree](/trees). July we were aiming for 10,000, I bumped it up to 20,000, at time of writing we're at 29,522. Let's get to 40,000!_
 
 [![](img/2019/06-trees/tree-banks.jpg)](https://offset.earth/philsturgeon)
