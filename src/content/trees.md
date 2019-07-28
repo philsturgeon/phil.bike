@@ -10,10 +10,10 @@ tags:
 
 
 <div>
-  <p>We got 5,000 trees funded in June, now we are gonna double that for July: aiming to fund <s>10,000</s> 20,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
+  <p>We got 5,000 trees funded in June, now we are gonna double that for July: aiming to fund <s>10,000</s> <s>no wait 20,000</s> damn guys 40,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="20000" value="14640">14,640 trees</progress> 20,000<br>
+  0 <progress id="trees-planted" max="40000" value="29522">29,522 trees</progress> 40,000<br>
   <br>
   <a href="https://offset.earth/philsturgeon" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -69,15 +69,16 @@ In the last few weeks so many people have helped me on my trip, that I'm startin
 - [@inanimatt](https://twitter.com/inanimatt) - 200
 - [Neil Craig](https://twitter.com/tdp_org) - 100
 - [Ryan Holder](https://twitter.com/ryannnh_) - 100
-- [Jerguš Lejko](https://twitter.com/jerguslejko) - 50`
+- [Jerguš Lejko](https://twitter.com/jerguslejko) - 50`
 - [Simon Maddox](https://twitter.com/simonmaddox) - 150
 - Benjamin Kubs - 110
 - [Timothy Habersack](https://twitter.com/timotheus) - 110
 - [Bob](https://twitter.com/bopp) - 110
-
-- **Goal** <s>10,000</s> 20,000
-- **Total** 14,640
-- **Remaining** 5,360
+- [Marc Qualie](https://twitter.com/marcqualie) - 180 (monthly 🏅)
+- Offset Eath Direct Donations - 14,612
+- **Goal** <s>10,000</s> <s>20,000</s> 40,000
+- **Total** 29,522
+- **Remaining** 10,478
 
 ## June 2019
 
