@@ -1,0 +1,12 @@
+---
+layout: post
+author: Phil
+title: Serbia and Bosnia
+image: img/2019/07-montenegro/cover.jpg
+date: 2019-07-21
+tags:
+- touring
+- gear
+- europe
+- serbia
+---

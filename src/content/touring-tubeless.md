@@ -109,7 +109,7 @@ Even if the sealant is only a week or two old, I am trying to make sure I always
 
 ## High and Dry
 
-When temperatures get into the mid 30C's (95F-ish), sealant can start to dry in a matter of days instead of weeks. I've seen some old forums recommending adding coolant to your sealant, or a 50/50 mixture of water and coolant. I've not tried this yet, but I am going to need to. It's hot as balls down in the Balkans and I'm out of spare sealant.
+When temperatures get into the mid 30C's (95F-ish), sealant can start to dry in a matter of days instead of weeks. I've seen some forum posts that recommend adding coolant to your sealant, or a 50/50 mixture of water and coolant. I've not tried this yet, but I am going to need to. It's hot as balls down in the Balkans and I'm out of spare sealant.
 
 ## Kit
 
