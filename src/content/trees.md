@@ -74,10 +74,10 @@ Start [donating now][offsetearth], and I strongly urge you to sign up for their 
 - [Timothy Habersack](https://twitter.com/timotheus) - 110
 - [Bob](https://twitter.com/bopp) - 110
 - [Marc Qualie](https://twitter.com/marcqualie) - 180 (monthly 🏅)
-- [Offset.Earth Direct Donations](https://offset.earth/philsturgeon) - 14,612 (sorry there were so many!!)
+- [Offset.Earth Direct Donations](https://offset.earth/philsturgeon) - 18,086 (sorry there were so many!!)
 - **Goal** <s>10,000</s> <s>20,000</s> 40,000
-- **Total** 29,772
-- **Remaining** 10,228
+- **Total** 33,246
+- **Remaining** 6,754
 
 ## June 2019
 
