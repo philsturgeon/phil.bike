@@ -10,10 +10,10 @@ tags:
 
 
 <div>
-  <p>We got 5,000 trees funded in June, now we are gonna double that for July: aiming to fund <s>10,000</s> <s>no wait 20,000</s> damn guys 40,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
+  <p>We got 5,000 trees funded in June, now we are gonna double that for July: aiming to fund <s>10,000</s> <s>no wait 20,000</s> damn folks 40,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="40000" value="33291">33,291 trees</progress> 40,000<br>
+  0 <progress id="trees-planted" max="40000" value="35991">35,991 trees</progress> 40,000<br>
   <br>
   <a href="https://offset.earth/philsturgeon" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -75,10 +75,10 @@ Start [donating now][offsetearth], and I strongly urge you to sign up for their 
 - [Bob](https://twitter.com/bopp) - 110
 - Nick Le Mouton - 45
 - [Marc Qualie](https://twitter.com/marcqualie) - 180 (monthly 🏅)
-- [Offset.Earth Direct Donations](https://offset.earth/philsturgeon) - 18,086 (sorry there were so many!!)
+- [Offset.Earth Direct Donations](https://offset.earth/philsturgeon) - 20,786 (sorry, there were so many!!)
 - **Goal** <s>10,000</s> <s>20,000</s> 40,000
-- **Total** 33,291
-- **Remaining** 6,709
+- **Total** 35,991
+- **Remaining** 4,009
 
 ## June 2019
 
