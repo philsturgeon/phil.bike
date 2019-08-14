@@ -12,7 +12,7 @@ tags:
   <p>We got 38,000 trees funded in July, now we are gonna double that for August: aiming to fund 65,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="40000" value="10570">10,570 trees</progress> 65,000<br>
+  0 <progress id="trees-planted" max="40000" value="13887">13,887 trees</progress> 65,000<br>
   <br>
   <a href="https://offset.earth/philsturgeon" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -47,11 +47,29 @@ Start [donating now][offsetearth]. I strongly urge you to sign up for their mont
 - [Jordan Kasper](https://twitter.com/jakerella) - 100 (subscriber 🏅)
 - [Marc Qualie](https://twitter.com/marcqualie) - 180 (subscriber 🏅)
 - [Heidi Hansen](https://twitter.com/jungledev) - 180 (subscriber 🏅)
-- [Offset Earth Donations](https://offset.earth/philsturgeon) - 9,850
+- Phil Meeee - 48 (subscriber 🏅)
+- Nico Silvani - 120 (subscriber 🏅)
+- Markus Hausammann - 36 (subscriber 🏅)
+- Future Commerce - 36 (subscriber 🏅)
+- Philip Jackson - 48 (subscriber 🏅)
+- Matthew Reinbold - 48 (subscriber 🏅)
+- Kieran Patel - 12 (subscriber 🏅)
+- Simon Maddox - 48 (subscriber 🏅)
+- Marc-Andre Giroux - 48 (subscriber 🏅)
+- Dan Sullivan - 12 (subscriber 🏅)
+- Jeff Loiselle - 50 + 48 (subscriber 🏅)
+- Edd Stone - 12 (subscriber 🏅)
+- Mike Bifulco - 12 (subscriber 🏅)
+- Sean Hamill - 24 (subscriber 🏅)
+- Matthew Haines-Young - 13 (subscriber 🏅)
+- Dom Harrington - 24 (subscriber 🏅)
+- Nick Jackson - 12 (subscriber 🏅)
+- Ahmed H - 18 (subscriber 🏅)
+- [Offset Earth Donations](https://offset.earth/philsturgeon) - 12,450
 
-- **Total** 10,570
+- **Total** 13,887
 - **Goal** 65,000
-- **Remaining** 54,430
+- **Remaining** 51,113
 
 ## July 2019
 
