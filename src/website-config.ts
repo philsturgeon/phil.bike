@@ -28,7 +28,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   logo: '',
   title: 'Phil.Bike',
-  description: 'The Misadventures of Crashy McCiderface, On Tour in Europe',
+  description: 'The Misadventures of Crashy McCiderface, Unsupported, Going for every country in Europe',
   coverImage: 'img/blog-cover.jpg',
   lang: 'en',
   siteUrl: 'https://phil.bike',
