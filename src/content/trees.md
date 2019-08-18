@@ -12,7 +12,7 @@ tags:
   <p>We got 38,000 trees funded in July, now we are gonna double that for August: aiming to fund 65,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
 
   <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="40000" value="13887">13,887 trees</progress> 65,000<br>
+  0 <progress id="trees-planted" max="40000" value="28738">28,738 trees</progress> 65,000<br>
   <br>
   <a href="https://offset.earth/philsturgeon" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
 </div>
@@ -43,6 +43,8 @@ Start [donating now][offsetearth]. I strongly urge you to sign up for their mont
 
 ## August 2019
 
+- [Offset Earth Donations](https://offset.earth/philsturgeon) - 19,250
+- [Laravel Community](https://offset.earth/laravel) - 8,027
 - [Gary Hockin](https://twitter.com/GeeH) - 180 (subscriber 🏅)
 - [Jordan Kasper](https://twitter.com/jakerella) - 100 (subscriber 🏅)
 - [Marc Qualie](https://twitter.com/marcqualie) - 180 (subscriber 🏅)
@@ -65,11 +67,10 @@ Start [donating now][offsetearth]. I strongly urge you to sign up for their mont
 - Dom Harrington - 24 (subscriber 🏅)
 - Nick Jackson - 12 (subscriber 🏅)
 - Ahmed H - 18 (subscriber 🏅)
-- [Offset Earth Donations](https://offset.earth/philsturgeon) - 12,450
-
-- **Total** 13,887
+- Lukas Rosenstock - 15 (subscriber 🏅)
+- **Total** 28,738
 - **Goal** 65,000
-- **Remaining** 51,113
+- **Remaining** 36,262
 
 ## July 2019
 
