@@ -43,6 +43,8 @@ Start [donating now][offsetearth]. I strongly urge you to sign up for their mont
 
 ## August 2019
 
+_This month all donations are going through Offset Earth, so your name will show up there instead of here. Unless you subscribe too! 😉 The Laravel community are also rocking their own mini fundraiser to help out. Gotta love those folks._
+
 - [Offset Earth Donations](https://offset.earth/philsturgeon) - 19,250
 - [Laravel Community](https://offset.earth/laravel) - 8,027
 - [Gary Hockin](https://twitter.com/GeeH) - 180 (subscriber 🏅)
