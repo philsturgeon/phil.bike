@@ -32,7 +32,7 @@ Not only did they advise me on specifics for a custom wheelset based on what I w
 
 https://www.instagram.com/p/B09ZTXSlW36/
 
-It was everything I need to get back on the road with full confidence. The wheels were tubed which I was fighting against, but they made a solid point: there are not too many tubeless rims which also have a re-enforced braking surface. They were toying with the idea of ordering some in when I was being pushy, but in the end they sold me on tubes with [Schwalbe Marathon Almotion V-Guard](https://www.wiggle.co.uk/schwalbe-marathon-almotion-v-guard-tyre/). These things will pretty much survive a direct attack from a tactical nuke.
+It was everything I need to get back on the road with full confidence. The wheels were tubed which I was fighting against, but they made a solid point: there are not too many tubeless rims which also have a re-enforced braking surface. They were toying with the idea of ordering some in from the States when I was being pushy, but in the end they sold me on tubes with [Schwalbe Marathon Almotion V-Guard](https://www.wiggle.co.uk/schwalbe-marathon-almotion-v-guard-tyre/). These things will pretty much survive a direct attack from a tactical nuke.
 
 The electronics mean I can just ride to my fitness and nothing else, without the fear of "at some point your lights will die and then you're fucked mate." looming over me. Here's a quick look at the cool new bits.
 
