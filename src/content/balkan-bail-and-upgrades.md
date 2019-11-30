@@ -14,7 +14,7 @@ Various questionable decisions had lead to me being in the Balkans in July. It h
 
 https://www.instagram.com/p/B0Wb6vslqn6/
 
-I jumped on a boat from Durres, Albania to Bari, Italy, then tried to rode north a bit until more trouble hit. Four bloody flats in a day, the ex-tubeless tyres were just swiss cheese and no amount of "shove a euro in it" was protecting the tubes. Mountain biker angles appeared with offers of a ride to town, but I thought I had a patch working so said no thanks, then it blew off. I got another mile on a knot, then got ANOTHER GOD DAMN FLAT IN THE SAME TUBE AGGHH. Impotent rage followed by dizziness as a feeling of overwhelming fuckedness sets in. 
+I jumped on a boat from Durres, Albania to Bari, Italy, then tried to rode north a bit until more trouble hit. Four bloody flats in a day, the ex-tubeless tyres were just swiss cheese and no amount of "shove a euro in it" was protecting the tubes. Mountain biker angels appeared with offers of a ride to town, but I thought I had a patch working so said no thanks, then it blew off. I got another mile on a knot, then got ANOTHER GOD DAMN FLAT IN THE SAME TUBE AGGHH. Impotent rage followed by dizziness as a feeling of overwhelming fuckedness set in. 
 
 ![when all else fails, shove grass in it](img/2019/balkan-bail/grass.jpg)
 
