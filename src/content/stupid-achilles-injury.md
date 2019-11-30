@@ -24,7 +24,7 @@ Anyhow, I started off on trains from Amsterdam heading to half-way up Denmark. T
 
 Sadly that did not happen. The [SON 28 dynamo hub](https://nabendynamo.de/en/products/hub-dynamos/for-standard-forks/) and [Edelux front light](https://nabendynamo.de/en/products/headlights/for-hub-dynamos/) was such a powerful pairing, that despite going dark two hours into the ride, I was perfectly happy smashing along - with a nice tailwind to boot. I got 160km before I decided to stop for a nap in a field at about 2am. 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2608276558/embed/c32b188a466906a4e169283fb345663c889f3c3c'></iframe>
+<iframe height='600' width='1120' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2608276558/embed/c32b188a466906a4e169283fb345663c889f3c3c'></iframe>
 
 Despite staring at the tent ceiling for ages I only really got about two hours sleep, then set off at 6am. 
 
@@ -32,7 +32,7 @@ https://www.instagram.com/p/B1Ar_crlLUA/
 
 Sunday was another day of pretty decent tailwinds, and waking up with my fancy dynamo hub charging my phone, then loudspeaker, etc. I pretty much felt invincible. Thinking "There's no reason to stop anymore!" meant I just... kept fucking going. 240km more got me Frederikshaven 24 hours after starting in Germany. This is not a brag, this was dumb. The furthest I'd done in 24hrs before was [330km (205mi) on a carbon racer](/2018-nyc-montreal/) with just a saddle-bag. Stupid #1.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2610634348/embed/a0f033128b4aa381016cd25a1ef73436b2a5ea9e'></iframe>
+<iframe height='600' width='1120' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2610634348/embed/a0f033128b4aa381016cd25a1ef73436b2a5ea9e'></iframe>
 
 I had just enough time to replace the 5,000 calories I burned getting there with an all you can eat Japanese buffet. I was limping there and back, but it seemed just like tight muscles, and I didn't bother stretching because I was so tried and hungry I just wanted to eat and sleep, and I hadn't noticed the elevation over the two halves of the ride totalled 3,000m, which is 2,000m more than I said I'd do in a day with a loaded touring bike... 🤦🏻‍ Stupid #2.
 
