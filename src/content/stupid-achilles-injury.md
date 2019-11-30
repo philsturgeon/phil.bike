@@ -70,8 +70,6 @@ YES! Worth every Europenny! For the whole 7 week recovery period I didn't walk m
 
 By November 6th I was on a ferry, heading home to the UK, for the first time this year. Heidi joined me for a new tour, with the goal of exploring England, but also to try and stop me smashing off and buggering up the ankle again. We got across the UK, from Harwich to Bristol doing about 30-50km a day. Heidi left me to it in Bristol after a quick Wiltshire cider-tour, and I've continued on through Wales, over to Ireland and up the east coast from Rosslare to Dublin. 
 
-![](img/2019/11-stupid-achilles-injury/byeheidi.jpg)
-
 The heel has felt a little tight now and then, especially though the Brecon Beacons and Wicklow Mountains, but on the whole with more stretching and two goes in the pool, it's actually staying in check. The fact that it's been utterly pissing it down non-stop for the entire way through Wales and Ireland has helped me not go over the top.
 
 I think it's going to be something I have to think about and keep in mind for a while, but It does feel like its under control now. In the past I've had knee trouble from over-active quads yanking on my knee caps pulling them up, and now I've got overactive calf muscles giving the tendon shit. So long as I always stretch the right bits, and rest after insanely long days, I think everything is going to be ok. 🤞
