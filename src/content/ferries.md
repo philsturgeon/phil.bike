@@ -31,6 +31,8 @@ All of these ferries have been incredibly simple. Two of them I turned up late a
 
 The most common approach is the ride on. You cycle along the car passenger lanes, get to a booth, give them your passport and maybe also mention a booking reference number, then you go sit in the queue with the cars. Most places suggest you skip the queue and go right to the front (oh do the drivers hate that). 
 
+![](img/2019/ferries/drive-on.jpg)
+
 There was one slight variation at the Rosslare port. They directed me to the foot-passenger terminal to get a printed ticket, then they sent me back to the car booth entrance as normal. I hung out in the "Motorist Lounge" for a while seeing as it was raining, which was handy. This motorist lounge was fairly unique, they generally don't have those, so I try to time my entrance close to boarding time - hence the previous close calls.
 
 Anyhow, most of the time you just get pointed at a certain lane, then at some point some random person waves their arms around and shouts something at you, which is whatever language they speak and doesn't matter too much. Just look for signs to go. 
