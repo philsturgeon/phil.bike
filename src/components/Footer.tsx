@@ -84,6 +84,10 @@ const Footer: React.FunctionComponent = () => {
             Strava
           </a>
 
+          <a href="https://offset.earth/philsturgeon" target="_blank" rel="noopener noreferrer">
+            Offset Earth
+          </a>
+
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
       </div>
