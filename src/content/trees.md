@@ -8,14 +8,7 @@ tags:
 - environment
 ---
 
-<div>
-  <p>We got 38,000 trees funded in July, now we are gonna double that for August: aiming to fund 65,000 trees via <a href="https://offset.earth/philsturgeon">Offset Earth</a>.</p>
-
-  <label for="trees-planted" style="font-weight: bold">Trees planted:</label>&nbsp;
-  0 <progress id="trees-planted" max="40000" value="28738">28,738 trees</progress> 65,000<br>
-  <br>
-  <a href="https://offset.earth/philsturgeon" style="padding: 4px 10px; border: #fff 1px solid; color: #fff; border-radius: 10px; opacity: 0.8; background-color: lightgreen">Donate Now</a>
-</div>
+_This blog tracks a bunch of donations when I was fundraising Summer 2019, but there can never be enough trees in the ground. Check out [Offset Earth][offsetearth] and donate anything you can to avoid climate oblivion. We can't cycle under water, and being on fire will mess with your FTP._
 
 Do you know what your carbon footprint is? Living on a bike and riding around the place without a car you'd think your carbon footprint was pretty low, but I did some math and mine is still awful. The average American pumps 50,000 lb of CO2 into the air annually, which is about 4,100 a month, and about 140 lb a day. In contrast, [bike tour life](/euro-trip-two-months/) creates 40 lb a day from hotels and 15 lb a day from meals ([source](https://carbonfund.org/how-we-calculate/)), which is about 1,650 lb a month.
 
@@ -107,7 +100,7 @@ _This month all donations are going through Offset Earth, so your name will show
 - [Bob](https://twitter.com/bopp) - 110
 - Nick Le Mouton - 45
 - [Marc Qualie](https://twitter.com/marcqualie) - 180 (subscriber 🏅)
-- [Offset.Earth Direct Donations](https://offset.earth/philsturgeon) - 22,239 (sorry, there were so many!!)
+- [Offset.Earth Direct Donations][offsetearth] - 22,239 (sorry, too many to list individually!)
 
 - **Goal** <s>10,000</s> <s>20,000</s> 40,000
 - **Total** 37,444
@@ -124,4 +117,4 @@ _This month all donations are going through Offset Earth, so your name will show
 - **Goal** 5,000
 - **Total** 6,000
 
-[offsetearth]: https://offset.earth/philsturgeon
+[offsetearth]: https://offset.earth/philsturgeon?gift-trees
