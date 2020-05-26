@@ -1,10 +1,10 @@
 import { graphql } from 'gatsby';
 import React from 'react';
 
-import Footer from '../components/Footer';
+import { Footer } from '../components/Footer';
 import SiteNav from '../components/header/SiteNav';
-import PostCard from '../components/PostCard';
-import Wrapper from '../components/Wrapper';
+import { PostCard } from '../components/PostCard';
+import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import {
   inner,

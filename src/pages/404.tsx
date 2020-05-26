@@ -4,8 +4,8 @@ import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
 import SiteNavLogo from '../components/header/SiteNavLogo';
-import PostCard from '../components/PostCard';
-import Wrapper from '../components/Wrapper';
+import { PostCard } from '../components/PostCard';
+import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
 import { inner, outer, PostFeed, SiteHeader } from '../styles/shared';
