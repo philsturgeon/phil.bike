@@ -74,15 +74,16 @@ const IndexPage: React.FC<IndexProps> = props => {
               <SiteTitle className="site-title">
                 {config.title}
               </SiteTitle>
+              <h2>{config.description}</h2>
             </SiteHeaderContent>
           </div>
         </div>
         {/* TODO: Add description? */}
-        <SiteDescription css={outer}>
+        {/* <SiteDescription css={outer}>
           <div css={inner}>
             <h2>{config.description}</h2>
           </div>
-        </SiteDescription>
+        </SiteDescription> */}
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
             {/* {featuredPosts.length > 0 && <h3 css={HomeSubtitles}>Featured Posts</h3>}

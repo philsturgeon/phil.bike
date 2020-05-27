@@ -25,7 +25,6 @@ const ReadNextCardStyles = styled.article`
   border-radius: 5px;
   box-shadow: rgba(39, 44, 49, 0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
   background-image: url(${(props: ReadNextCardStylesProps) => props.coverImage});
-
   :before {
     content: "";
     position: absolute;
@@ -61,13 +60,11 @@ const ReadNextCardHeaderTitle = styled.h3`
   font-size: 3rem;
   line-height: 1.2em;
   letter-spacing: 1px;
-
   a {
     color: #fff;
     font-weight: 300;
     text-decoration: none;
   }
-
   a:hover {
     text-decoration: none;
   }
@@ -78,12 +75,10 @@ const ReadNextDivider = styled.div`
   display: flex;
   justify-content: center;
   height: 80px;
-
   svg {
     width: 40px;
     fill: transparent;
     stroke: #fff;
-
     stroke-width: 0.5px;
     stroke-opacity: 0.65;
   }
@@ -95,7 +90,6 @@ const ReadNextCardContent = styled.div`
   flex-grow: 1;
   display: flex;
   font-size: 1.7rem;
-
   ul {
     display: flex;
     flex-direction: column;
@@ -104,7 +98,6 @@ const ReadNextCardContent = styled.div`
     text-align: center;
     list-style: none;
   }
-
   li {
     margin: 0;
     padding: 0;
@@ -113,7 +106,6 @@ const ReadNextCardContent = styled.div`
     font-weight: 200;
     letter-spacing: -0.5px;
   }
-
   li a {
     display: block;
     padding: 20px 0;
@@ -123,11 +115,9 @@ const ReadNextCardContent = styled.div`
     vertical-align: top;
     transition: opacity 0.3s ease;
   }
-
   li:first-of-type a {
     padding-top: 10px;
   }
-
   li a:hover {
     opacity: 1;
   }
@@ -137,7 +127,6 @@ const ReadNextCardFooter = styled.footer`
   position: relative;
   margin: 15px 0 3px 0;
   text-align: center;
-
   a {
     color: #fff;
   }
@@ -169,7 +158,7 @@ export interface ReadNextQuery {
   };
 }
 
-const ReadNextCard: React.FunctionComponent<ReadNextProps> = props => {
+export const ReadNextCard: React.FunctionComponent<ReadNextProps> = props => {
   return (
     <StaticQuery
       query={graphql`
@@ -223,5 +212,3 @@ const ReadNextCard: React.FunctionComponent<ReadNextProps> = props => {
     />
   );
 };
-
-export default ReadNextCard;

@@ -403,8 +403,10 @@ import { Footer } from '../components/Footer';
 import { Seo } from '../components/Seo';
 import SiteNav, { SiteNavMain } from '../components/header/SiteNav';
 import PostContent from '../components/PostContent';
-import ReadNextCard from '../components/ReadNextCard';
-// import { Subscribe } from '../components/subscribe/Subscribe';
+import { ReadNextCard } from '../components/ReadNextCard';
+import { ReadNext } from '../components/ReadNext';
+import { PostCard } from '../components/PostCard';
+import Subscribe from '../components/subscribe/Subscribe';
 import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
@@ -571,22 +573,41 @@ const PostTemplate: React.FC<PostTemplateProps> = props => {
               {/* {post.frontmatter.comments && <Disqus config={disqusConfig} />} */}
 
               {/* The big email subscribe modal content */}
-              {/* {config.showSubscribe && <Subscribe title={config.title} />} */}
+              {config.showSubscribe && <Subscribe title={config.title} />}
             </article>
           </div>
         </main>
 
-        {/* <ReadNext
+        <ReadNext
           tags={post.frontmatter.tags}
           relatedPosts={props.data.relatedPosts}
           pageContext={props.pageContext}
-        /> */}
+        />
+
+        {/* <aside className="read-next" css={outer}>
+          <div css={inner}>
+            <ReadNextFeed>
+              {props.data.relatedPosts && (
+                <ReadNextCard tags={post.frontmatter.tags} relatedPosts={props.data.relatedPosts} />
+              )}
+              {props.pageContext.prev && <PostCard post={props.pageContext.prev} />}
+              {props.pageContext.next && <PostCard post={props.pageContext.next} />}
+            </ReadNextFeed>
+          </div>
+        </aside> */}
 
         <Footer />
       </Wrapper>
     </IndexLayout>
   );
 };
+
+const ReadNextFeed = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -20px;
+  padding: 40px 0 0 0;
+`;
 
 const PostTemplateStyles = css`
   .site-main {
