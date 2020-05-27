@@ -1,6 +1,7 @@
 import React from 'react';
 import { lighten } from 'polished';
 import { Link } from 'gatsby';
+import _ from 'lodash';
 
 import { colors } from '../styles/colors';
 import styled from '@emotion/styled';
@@ -8,7 +9,7 @@ import styled from '@emotion/styled';
 import { Author } from '../templates/post';
 
 export interface MetaContentProps {
-  author: Author[];
+  author: Author;
   datetime: string;
   displayDatetime: string;
   tags: Array<string>;
@@ -21,14 +22,9 @@ export const MetaContent: React.FC<MetaContentProps> = ({author, datetime, displ
     <MetaContentDiv className="post-card-byline-content">
       <div className="post-card-byline-meta">
         {author && <span>
-          {author.map((author, index) => {
-            return (
-              <React.Fragment key={author.id}>
-                <Link to={`/author/${_.kebabCase(author.id)}/`} className="author">{author.id}</Link>
-                {author.length - 1 > index && ', '}
-              </React.Fragment>
-            );
-          })}
+          <React.Fragment key={author.id}>
+            <Link to={`/author/${_.kebabCase(author.id)}/`} className="author">{author.id}</Link>
+          </React.Fragment>
           <span className="bull">&bull;</span>
         </span>}
         <time dateTime={datetime}>{displayDatetime}</time>

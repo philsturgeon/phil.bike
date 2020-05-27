@@ -448,7 +448,7 @@ interface PostTemplateProps {
         };
         excerpt: string;
         tags: string[];
-        author: Author[];
+        author: Author;
         comments?: boolean;
         disqus_identifier: string;
       };
@@ -492,7 +492,7 @@ export interface PageContext {
     date: string;
     draft?: boolean;
     tags: string[];
-    author: Author[];
+    author: Author;
     featured: boolean;
     description: string;
   };
@@ -571,7 +571,7 @@ const PostTemplate: React.FC<PostTemplateProps> = props => {
               {/* {post.frontmatter.comments && <Disqus config={disqusConfig} />} */}
 
               {/* The big email subscribe modal content */}
-              {config.showSubscribe && <Subscribe title={config.title} />}
+              {/* {config.showSubscribe && <Subscribe title={config.title} />} */}
             </article>
           </div>
         </main>

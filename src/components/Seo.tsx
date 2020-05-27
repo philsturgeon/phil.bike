@@ -57,7 +57,7 @@ export const Seo: React.FC<SeoProps> = ({post, width, height, pathContext, title
         />
       )}
       {post && post.frontmatter.author && <meta name="twitter:label1" content="Written by" />}
-      {post && post.frontmatter.author && <meta name="twitter:data1" content={post.frontmatter.author[0].id} />}
+      {post && post.frontmatter.author && <meta name="twitter:data1" content={post.frontmatter.author.id} />}
       {post && post.frontmatter.tags && <meta name="twitter:label2" content="Filed under" />}
       {post && post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
       {config.twitter && (
