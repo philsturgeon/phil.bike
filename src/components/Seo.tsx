@@ -21,7 +21,9 @@ export interface SeoProps {
 export const Seo: React.FC<SeoProps> = ({post, width, height, pathContext, title, description, path, image}) => {
   const urlPath = pathContext? pathContext.slug : path;
   const imagePath = post && post.frontmatter.image? post.frontmatter.image.childImageSharp.fluid.src : image || defaultImage;  
+  console.log("DEFAULT IMAGE: ", defaultImage);
   
+
   return(
     <Helmet>
       <html lang={config.lang} />

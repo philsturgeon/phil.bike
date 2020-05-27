@@ -647,7 +647,7 @@ export const PostFullHeader = styled.header`
 const PostFullImage = styled.figure`
   margin: 25px 0 50px;
   height: 800px;
-  background: ${colors.lightgrey} center center;
+  // background: ${colors.lightgrey} center center;
   background-size: cover;
   border-radius: 5px;
   @media (max-width: 1170px) {
