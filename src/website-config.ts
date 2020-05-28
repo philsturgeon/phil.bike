@@ -12,6 +12,7 @@ export interface WebsiteConfig {
    * blog full path, no ending slash!
    */
   siteUrl: string;
+  urlTitle: string;
   twitter?: string;
   instagram?: string;
   strava?: string;
@@ -29,6 +30,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   logo: '',
   title: 'Phil Sturgeon',
+  urlTitle: 'Phil.Bike',
   description: 'The Misadventures of Crashy McCiderface, Going for every country in Europe',
   coverImage: 'img/blog-cover.jpg',
   lang: 'en',

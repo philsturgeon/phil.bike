@@ -89,7 +89,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
             <ul css={NavStyles} role="menu">
               <li role="menuitem">
-                <Link to="/">Phil.Bike</Link>
+                <Link to="/">{config.urlTitle}</Link>
               </li>
             </ul>
             {isPost && (
