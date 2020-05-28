@@ -63,7 +63,7 @@ export const PostCard: React.FunctionComponent<PostCardProps> = ({ post }) => {
 };
 
 const PostCardStyles = css`
-  flex: 1 1 300px;
+  flex: 1 1 400px;
   display: flex;
   flex-direction: column;
   overflow: hidden;
