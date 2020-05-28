@@ -3,7 +3,7 @@ import * as React from 'react';
 
 // credit https://github.com/evansharp/strava-icon
 const strava: React.FunctionComponent = () => (
-<svg viewBox="0 0 244 244" enable-background="new 0 0 244 244">
+<svg viewBox="0 0 244 244" enableBackground="new 0 0 244 244">
   <g>
     <path fill="#000" d="M122,242C55.8,242,2,188.2,2,122S55.8,2,122,2c66.2,0,120,53.8,120,120S188.2,242,122,242z M122,21.7
       c-55.3,0-100.3,45-100.3,100.3s45,100.3,100.3,100.3s100.3-45,100.3-100.3S177.3,21.7,122,21.7z"/>

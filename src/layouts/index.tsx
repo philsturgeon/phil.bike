@@ -333,7 +333,6 @@ const IndexLayout: React.FC<IndexProps> = props => {
           dl,
           blockquote {
             margin: 0 0 1.5em 0;
-            // font-family: ${fonts.serif};
             font-family: ${fonts.text};
           }
 
@@ -428,7 +427,6 @@ const IndexLayout: React.FC<IndexProps> = props => {
             line-height: 1.15;
             font-weight: 600;
             text-rendering: optimizeLegibility;
-            // font-family: ${fonts.sansserif};
             font-family: ${fonts.headers};
           }
 
