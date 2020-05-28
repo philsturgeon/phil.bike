@@ -43,7 +43,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       createNodeField({
         node,
         name: 'primaryTag',
-        value: primaryTag || 'api', // api as default tag
+        value: primaryTag || 'touring', // touring as default tag
       });
     }
   }
