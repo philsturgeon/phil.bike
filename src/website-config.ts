@@ -16,6 +16,7 @@ export interface WebsiteConfig {
   twitter?: string;
   instagram?: string;
   strava?: string;
+  komoot?: string;
   offset?: string;
   /**
    * hide or show all email subscribe boxes
@@ -39,6 +40,7 @@ const config: WebsiteConfig = {
   instagram: 'https://instagram.com/philsturgeon',
   offset: 'https://offset.earth/philsturgeon',
   strava: 'https://www.strava.com/athletes/philsturgeon',
+  komoot: 'https://www.komoot.com/user/294561424155',
   showSubscribe: true,
   tinyletterAction: 'https://tinyletter.com/CrashyMcCiderface',
 };

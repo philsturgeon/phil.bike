@@ -10,8 +10,9 @@ import { colors } from '../../styles/colors';
 import { fonts } from '../../styles/fonts';
 import { SocialLink } from '../../styles/shared';
 import config from '../../website-config';
-import Twitter from '../icons/twitter';
+import Komoot from '../icons/komoot';
 import Strava from '../icons/strava';
+import Twitter from '../icons/twitter';
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 
 interface SiteNavProps {
@@ -122,7 +123,16 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 <Twitter />
               </a>
             )}
-            <a   
+            <a
+              css={SocialLink}
+              href={config.komoot}
+              title="Komoot"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Komoot />
+            </a>
+            <a
               css={SocialLink}
               href={config.strava}
               title="Strava"
@@ -317,4 +327,3 @@ const HideNav = css`
 `;
 
 export default SiteNav;
-
