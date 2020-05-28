@@ -14,7 +14,7 @@ export interface PostCardProps {
   post: PageContext;
 }
 
-export const PostCard: React.FunctionComponent<PostCardProps> = ({ post }) => {
+export const PostCard: React.FunctionComponent<PostCardProps> = ({ post, large = false }) => {
   const date = new Date(post.frontmatter.date);
   // 2018-08-20
   const datetime = format(date, 'yyyy-MM-dd');
@@ -24,7 +24,7 @@ export const PostCard: React.FunctionComponent<PostCardProps> = ({ post }) => {
   return (
     <article
       className={`post-card ${post.frontmatter.image ? '' : 'no-image'}`}
-      css={PostCardStyles}
+      css={[PostCardStyles, large && PostCardLarge]}
     >
       {post.frontmatter.image && (
         <Link className="post-card-image-link" css={PostCardImageLink} to={post.fields.slug}>
@@ -79,6 +79,43 @@ const PostCardStyles = css`
   //   transition: all 0.4s ease;
   //   transform: translate3D(0, -1px, 0) scale(1.02);
   // }
+`;
+
+const PostCardLarge = css`
+  border-bottom: none;
+  margin: 0 20px 0px;
+
+  @media (min-width: 795px) {
+    flex: 1 1 100%;
+    flex-direction: row;
+    border-top: 0;
+
+    :not(.no-image) .post-card-header {
+      margin-top: 0;
+    }
+
+    .post-card-image-link {
+      position: relative;
+      flex: 1 1 auto;
+      margin-bottom: 0;
+    }
+
+    .post-card-image {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+
+    .post-card-content {
+      flex: 0 1 501px;
+      justify-content: center;
+    }
+
+    .post-card-title {
+      margin-top: 0;
+      font-size: 3.2rem;
+    }
+  }
 `;
 
 const PostCardImageLink = css`

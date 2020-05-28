@@ -46,7 +46,8 @@ export interface IndexProps {
 
 const IndexPage: React.FC<IndexProps> = props => {
   const { width, height } = props.data.header.childImageSharp.fixed;
-  const allPosts = props.data.allMarkdownRemark.edges;
+  const featuredPosts = props.data.allMarkdownRemark.edges.filter(edge => edge.node.frontmatter.featured);
+  const allPosts = props.data.allMarkdownRemark.edges.filter(edge => !edge.node.frontmatter.featured);
 
   return (
     <IndexLayout>
@@ -77,13 +78,17 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <main id="site-main" css={[SiteMain, outer]}>
-          <div css={[inner, Posts]}>
+        <div css={[inner, Posts]}>
+            {featuredPosts.length > 0 && <h3 css={HomeSubtitles}>Featured Posts</h3>}
+            <div css={[PostFeed]}>
+              {featuredPosts.map(post => {
+                return (<PostCard key={post.node.fields.slug} post={post.node} large />)
+              })}
+            </div>
             <h3 css={HomeSubtitles}>All Posts</h3>
             <div css={[PostFeed]}>
-              {allPosts.map((post, index) => {
-                return (
-                  <PostCard key={post.node.fields.slug} post={post.node} />
-                );
+              {allPosts.map(post => {
+                return(<PostCard key={post.node.fields.slug} post={post.node} />)
               })}
             </div>
           </div>
@@ -125,6 +130,7 @@ export const pageQuery = graphql`
             title
             date
             tags
+            featured
             image {
               childImageSharp {
                 fluid(maxWidth: 3720) {
