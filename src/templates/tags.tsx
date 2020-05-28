@@ -12,8 +12,8 @@ import {
   PostFeed,
   PostFeedRaise,
   SiteDescription,
-  SiteHeader,
   SiteHeaderContent,
+  SiteHeaderAuthor,
   SiteMain,
   SiteTitle,
 } from '../styles/shared';
@@ -86,7 +86,7 @@ const Tags: React.FunctionComponent<TagTemplateProps> = props => {
       <Wrapper>
         <header
           className={`${tagData && tagData.node.image ? '' : 'no-cover'}`}
-          css={[outer, SiteHeader]}
+          css={[outer, SiteHeaderAuthor]}
           style={{
             backgroundImage:
               tagData && tagData.node.image ?

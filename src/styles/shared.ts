@@ -1,7 +1,7 @@
 import { css } from '@emotion/core';
 import styled from '@emotion/styled';
 import { colors } from './colors';
-import { lighten } from 'polished';
+import { lighten, darken } from 'polished';
 
 export const outer = css`
   position: relative;
@@ -80,7 +80,7 @@ export const PostFeed = css`
 
 export const PostFeedRaise = css`
   @media (min-width: 900px) {
-    margin-top: -70px;
+    margin-top: 20px;
     padding-top: 0;
   }
 `;
@@ -175,3 +175,12 @@ export const AuthorProfileImage = css`
   width: 60px;
   height: 60px;
 `;
+
+export const SiteHeaderAuthor = css`
+  position: relative;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #fff;
+  background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
+  background-size: cover;
+`

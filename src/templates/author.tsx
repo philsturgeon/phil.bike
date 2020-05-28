@@ -10,11 +10,11 @@ import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
 import {
   AuthorProfileImage,
+  SiteHeaderAuthor,
   inner,
   outer,
   PostFeed,
   PostFeedRaise,
-  SiteHeader,
   SiteHeaderContent,
   SiteTitle,
   SiteMain,
@@ -23,7 +23,6 @@ import {
 import { PageContext } from './post';
 import Helmet from 'react-helmet';
 import config from '../website-config';
-import Website from '../components/icons/website';
 import Twitter from '../components/icons/twitter';
 
 const HiddenMobile = css`
@@ -43,7 +42,7 @@ const AuthorMeta = styled.div`
   font-style: italic;
 `;
 
-const AuthorBio = styled.h2`
+const AuthorBio = styled.h3`
   z-index: 10;
   flex-shrink: 0;
   margin: 5px 0 10px 0;
@@ -151,7 +150,7 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
       <Wrapper>
         <header
           className="no-cover"
-          css={[outer, SiteHeader]}
+          css={[outer, SiteHeaderAuthor]}
           style={{
             // eslint-disable-next-line @typescript-eslint/camelcase
             backgroundImage: author.profile_image ?
@@ -180,20 +179,6 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                   {totalCount === 1 && '1 post'}
                   {totalCount === 0 && 'No posts'} <Bull>•</Bull>
                 </div>
-                {author.website && (
-                  <div>
-                    <a
-                      className="social-link-wb"
-                      css={SocialLink}
-                      href={author.website}
-                      title="Website"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Website />
-                    </a>
-                  </div>
-                )}
                 {author.twitter && (
                   <a
                     className="social-link-tw"
@@ -206,21 +191,6 @@ const Author: React.FunctionComponent<AuthorTemplateProps> = props => {
                     <Twitter />
                   </a>
                 )}
-                {/* TODO RSS FEED <a
-                  css={SocialLink} className="social-link-rss"
-                  href="https://feedly.com/i/subscription/feed/https://demo.ghost.io/author/ghost/rss/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    style={{ height: '1.9rem' }}
-                  >
-                    <circle cx="6.18" cy="17.82" r="2.18" />
-                    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z" />
-                  </svg>
-                </a> */}
               </AuthorMeta>
             </SiteHeaderContent>
           </div>
