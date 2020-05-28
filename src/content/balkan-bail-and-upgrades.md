@@ -8,7 +8,6 @@ tags:
 - gear
 - electronics
 - touring
-featured: true
 ---
 
 Various questionable decisions had lead to me being in the Balkans in July. It had been hot as hell in June, and the first half of July wasn't better. Multiple heatwaves came through, my sealant kept drying out, and I was getting heat exhaustion every day. By the last week of July I was popping spokes, down to tubes, and feeling ready for a change of plans.

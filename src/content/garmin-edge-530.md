@@ -9,6 +9,7 @@ tags:
 - video
 - review
 - garmin
+featured: true
 ---
 
 I took the Garmin Edge 530 for a little jaunt through Ireland, England, north Spain, then down the west coast of Portugal. It was my main navigation from October to February, and I took it through cities, mountains, dual carriage ways, dirt tracks, and hiking trails. 
