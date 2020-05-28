@@ -15,6 +15,7 @@ export interface WebsiteConfig {
   twitter?: string;
   instagram?: string;
   strava?: string;
+  offset?: string;
   /**
    * hide or show all email subscribe boxes
    */
@@ -27,13 +28,14 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   logo: '',
-  title: 'Phil.Bike',
+  title: 'Phil Sturgeon',
   description: 'The Misadventures of Crashy McCiderface, Going for every country in Europe',
   coverImage: 'img/blog-cover.jpg',
   lang: 'en',
   siteUrl: 'https://phil.bike',
   twitter: 'https://twitter.com/philsturgeon',
   instagram: 'https://instagram.com/philsturgeon',
+  offset: 'https://offset.earth/philsturgeon',
   strava: 'https://www.strava.com/athletes/philsturgeon',
   showSubscribe: true,
   tinyletterAction: 'https://tinyletter.com/CrashyMcCiderface',
