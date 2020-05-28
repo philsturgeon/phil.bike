@@ -52,4 +52,8 @@ const ReadNextFeed = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin: 0 -20px;
+
+  .post-card {
+    flex: 1 1 300px;
+  }
 `;
