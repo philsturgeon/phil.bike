@@ -14,7 +14,7 @@ export const PostFullContent = styled.section`
   font-size: 2rem;
   line-height: 1.6em;
 
-  .twitter-tweet {
+  .twitter-tweet, .twitter-tweet-rendered {
     margin: 0 auto;
     margin-bottom: 25px !important;
   }

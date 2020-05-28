@@ -11,6 +11,87 @@ export interface ReadNextCardStylesProps {
   coverImage: string;
 }
 
+export interface ReadNextProps {
+  tags: string[];
+  relatedPosts: {
+    totalCount: number;
+    edges: {
+      node: {
+        timeToRead: number;
+        frontmatter: {
+          title: string;
+        };
+        fields: {
+          slug: string;
+        };
+      };
+    }[];
+  };
+}
+
+export interface ReadNextQuery {
+  header: {
+    childImageSharp: {
+      fluid: any;
+    };
+  };
+}
+
+export const ReadNextCard: React.FunctionComponent<ReadNextProps> = props => {
+  return (
+    <StaticQuery
+      query={graphql`
+        query ReadNextQuery {
+          header: file(relativePath: { eq: "img/blog-cover.jpg" }) {
+            childImageSharp {
+              # Specify the image processing specifications right in the query.
+              # Makes it trivial to update as your page's design changes.
+              fluid(maxWidth: 2000) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+      `}
+      // tslint:disable-next-line:react-this-binding-issue
+      render={({ header }: ReadNextQuery) => (
+        <ReadNextCardStyles coverImage={header.childImageSharp.fluid.src}>
+          <ReadNextCardHeader>
+            <ReadNextCardHeaderSitetitle>
+              &mdash; {config.title} &mdash;
+            </ReadNextCardHeaderSitetitle>
+            <ReadNextCardHeaderTitle>
+              <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>{props.tags[0]}</Link>
+            </ReadNextCardHeaderTitle>
+          </ReadNextCardHeader>
+          <ReadNextDivider>
+            <InfinityIcon />
+          </ReadNextDivider>
+          <ReadNextCardContent>
+            <ul>
+              {props.relatedPosts.edges.map(n => {
+                return (
+                  <li key={n.node.frontmatter.title}>
+                    <Link to={n.node.fields.slug}>{n.node.frontmatter.title}</Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </ReadNextCardContent>
+          <ReadNextCardFooter>
+            <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>
+              {props.relatedPosts.totalCount > 1 &&
+                `See all ${props.relatedPosts.totalCount} posts`}
+              {props.relatedPosts.totalCount === 1 && '1 post'}
+              {props.relatedPosts.totalCount === 0 && 'No posts'} →
+            </Link>
+          </ReadNextCardFooter>
+        </ReadNextCardStyles>
+      )}
+    />
+  );
+};
+
 const ReadNextCardStyles = styled.article`
   position: relative;
   flex: 1 1 300px;
@@ -131,84 +212,3 @@ const ReadNextCardFooter = styled.footer`
     color: #fff;
   }
 `;
-
-export interface ReadNextProps {
-  tags: string[];
-  relatedPosts: {
-    totalCount: number;
-    edges: {
-      node: {
-        timeToRead: number;
-        frontmatter: {
-          title: string;
-        };
-        fields: {
-          slug: string;
-        };
-      };
-    }[];
-  };
-}
-
-export interface ReadNextQuery {
-  header: {
-    childImageSharp: {
-      fluid: any;
-    };
-  };
-}
-
-export const ReadNextCard: React.FunctionComponent<ReadNextProps> = props => {
-  return (
-    <StaticQuery
-      query={graphql`
-        query ReadNextQuery {
-          header: file(relativePath: { eq: "img/blog-cover.jpg" }) {
-            childImageSharp {
-              # Specify the image processing specifications right in the query.
-              # Makes it trivial to update as your page's design changes.
-              fluid(maxWidth: 2000) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-      `}
-      // tslint:disable-next-line:react-this-binding-issue
-      render={({ header }: ReadNextQuery) => (
-        <ReadNextCardStyles coverImage={header.childImageSharp.fluid.src}>
-          <ReadNextCardHeader>
-            <ReadNextCardHeaderSitetitle>
-              &mdash; {config.title} &mdash;
-            </ReadNextCardHeaderSitetitle>
-            <ReadNextCardHeaderTitle>
-              <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>{props.tags[0]}</Link>
-            </ReadNextCardHeaderTitle>
-          </ReadNextCardHeader>
-          <ReadNextDivider>
-            <InfinityIcon />
-          </ReadNextDivider>
-          <ReadNextCardContent>
-            <ul>
-              {props.relatedPosts.edges.map(n => {
-                return (
-                  <li key={n.node.frontmatter.title}>
-                    <Link to={n.node.fields.slug}>{n.node.frontmatter.title}</Link>
-                  </li>
-                );
-              })}
-            </ul>
-          </ReadNextCardContent>
-          <ReadNextCardFooter>
-            <Link to={`/tags/${_.kebabCase(props.tags[0])}/`}>
-              {props.relatedPosts.totalCount > 1 &&
-                `See all ${props.relatedPosts.totalCount} posts`}
-              {props.relatedPosts.totalCount === 1 && '1 post'}
-              {props.relatedPosts.totalCount === 0 && 'No posts'} →
-            </Link>
-          </ReadNextCardFooter>
-        </ReadNextCardStyles>
-      )}
-    />
-  );
-};
