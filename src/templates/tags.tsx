@@ -18,7 +18,7 @@ import {
   SiteTitle,
 } from '../styles/shared';
 import { PageContext } from './post';
-import Helmet from 'react-helmet';
+import { Seo } from '../components/Seo';
 import config from '../website-config';
 
 interface TagTemplateProps {
@@ -60,29 +60,11 @@ const Tags: React.FunctionComponent<TagTemplateProps> = props => {
 
   return (
     <IndexLayout>
-      <Helmet>
-        <html lang={config.lang} />
-        <title>
-          {tag} - {config.title}
-        </title>
-        <meta
-          name="description"
-          content={tagData && tagData.node ? tagData.node.description : ''}
-        />
-        <meta property="og:site_name" content={config.title} />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content={`${tag} - ${config.title}`} />
-        <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={`${tag} - ${config.title}`} />
-        <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
-        {config.twitter && (
-          <meta
-            name="twitter:site"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
-          />
-        )}
-      </Helmet>
+      <Seo 
+        title={`${tag} - ${config.title}`}
+        description={tagData?.node ? tagData.node.description : `Posts about ${tag}`}
+        path={props.path}
+      />
       <Wrapper>
         <header
           className={`${tagData && tagData.node.image ? '' : 'no-cover'}`}
