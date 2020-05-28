@@ -149,9 +149,9 @@ const SubscribeButton = styled.a`
   padding: 4px 10px;
   border: #fff 1px solid;
   color: #fff;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1em;
-  border-radius: 10px;
+  border-radius: 3px;
   opacity: 0.8;
 
   :hover {

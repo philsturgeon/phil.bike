@@ -1,7 +1,7 @@
 import { css } from '@emotion/core';
 import styled from '@emotion/styled';
 import { colors } from './colors';
-import { darken, lighten } from 'polished';
+import { lighten } from 'polished';
 
 export const outer = css`
   position: relative;
@@ -24,11 +24,6 @@ export const SiteNavMain = css`
   background: ${lighten('-0.05', colors.darkgrey)};
 `;
 
-// export const SiteMain = css`
-//   z-index: 100;
-//   flex-grow: 1;
-// `;
-
 export const SiteMain = css`
   z-index: 100;
   flex-grow: 1;
@@ -37,14 +32,6 @@ export const SiteMain = css`
     background: ${colors.darkmode};
   }
 `;
-
-// export const SiteTitle = styled.h1`
-//   z-index: 10;
-//   margin: 0;
-//   padding: 0;
-//   font-size: 3.8rem;
-//   font-weight: 700;
-// `;
 
 export const SiteTitle = styled.h1`
   z-index: 10;
@@ -82,7 +69,7 @@ export const PostFeed = css`
   background: #fff;
 
   /* Special Template Styles */
-  padding: 0px 0 3vw;
+  padding: 0px 0 1vw;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 
@@ -91,7 +78,6 @@ export const PostFeed = css`
   }
 `;
 
-// TODO: ?
 export const PostFeedRaise = css`
   @media (min-width: 900px) {
     margin-top: -70px;
@@ -121,29 +107,8 @@ export const SocialLink = css`
   }
 `;
 
-// export const SiteHeader = css`
-//   position: relative;
-//   padding-top: 12px;
-//   padding-bottom: 12px;
-//   color: #fff;
-//   /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
-//   background: ${darken('0.05', colors.darkgrey)} no-repeat center center;
-//   background-size: cover;
-// `;
-
 
 export const SiteHeader = css``;
-
-// export const SiteHeaderContent = styled.div`
-//   display: flex;
-//   flex-direction: column;
-//   justify-content: center;
-//   align-items: center;
-//   padding: 10vw 4vw;
-//   min-height: 200px;
-//   max-height: 450px;
-//   text-align: center;
-// `;
 
 export const SiteHeaderContent = styled.div`
   z-index: 100;
@@ -154,48 +119,6 @@ export const SiteHeaderContent = styled.div`
   min-height: 200px;
   max-height: 340px;
 `;
-
-// export const SiteHeaderStyles = css`
-//   content: '';
-//   position: absolute;
-//   top: 0;
-//   right: 0;
-//   bottom: auto;
-//   left: 0;
-//   z-index: 10;
-//   display: block;
-//   height: 80px;
-//   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
-
-//   :before {
-//     content: '';
-//     position: absolute;
-//     top: 0;
-//     right: 0;
-//     bottom: 0;
-//     left: 0;
-//     z-index: 10;
-//     display: block;
-//     background: rgba(0, 0, 0, 0.18);
-//   }
-
-//   :after {
-//     content: '';
-//     position: absolute;
-//     top: 0;
-//     right: 0;
-//     bottom: auto;
-//     left: 0;
-//     z-index: 10;
-//     display: block;
-//     height: 80px;
-//     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
-//   }
-//   @media (max-width: 700px) {
-//     padding-right: 0;
-//     padding-left: 0;
-//   }
-// `;
 
 export const SiteHeaderStyles = css`
   position: relative;
