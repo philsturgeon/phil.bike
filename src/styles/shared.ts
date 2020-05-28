@@ -118,6 +118,14 @@ export const SiteHeaderContent = styled.div`
   align-items: center;
   min-height: 200px;
   max-height: 340px;
+
+  h2 {
+    font-size: 2rem;
+    opacity: 0.8;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 3px;
+  }
 `;
 
 export const SiteHeaderStyles = css`

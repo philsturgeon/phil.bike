@@ -16,7 +16,6 @@ import {
   outer,
   PostFeed,
   Posts,
-  SiteDescription,
   SiteHeader,
   SiteHeaderContent,
   SiteMain,
@@ -46,7 +45,6 @@ export interface IndexProps {
 }
 
 const IndexPage: React.FC<IndexProps> = props => {
-  console.log("PROPS: ", props);
   const { width, height } = props.data.header.childImageSharp.fixed;
   const allPosts = props.data.allMarkdownRemark.edges;
 
@@ -78,22 +76,8 @@ const IndexPage: React.FC<IndexProps> = props => {
             </SiteHeaderContent>
           </div>
         </div>
-        {/* TODO: Add description? */}
-        {/* <SiteDescription css={outer}>
-          <div css={inner}>
-            <h2>{config.description}</h2>
-          </div>
-        </SiteDescription> */}
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
-            {/* {featuredPosts.length > 0 && <h3 css={HomeSubtitles}>Featured Posts</h3>}
-            <div css={[PostFeed]}>
-              {featuredPosts.map((post, index) => {
-                return (
-                  <PostCard key={post.node.fields.slug} post={post.node} large={true} />
-                );
-              })}
-            </div> */}
             <h3 css={HomeSubtitles}>All Posts</h3>
             <div css={[PostFeed]}>
               {allPosts.map((post, index) => {
