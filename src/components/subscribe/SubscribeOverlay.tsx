@@ -1,5 +1,6 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
+import { darken, desaturate, mix } from 'polished';
 
 import { colors } from '../../styles/colors';
 import config from '../../website-config';
@@ -68,10 +69,10 @@ const SubscribeOverlay = styled.div`
     text-align: center;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);
     background: linear-gradient(
-      color(var(--blue) whiteness(+7%)),
-      color(var(--blue) lightness(-7%) saturation(-10%)) 60%,
-      color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
-      color(var(--blue) lightness(-4%) saturation(-10%))
+      ${mix('0.1', '#fff', colors.blue)},
+      ${desaturate('0.1', darken('0.07', colors.blue))} 60%,
+      ${desaturate('0.1', darken('0.07', colors.blue))} 90%,
+      ${desaturate('0.1', darken('0.04', colors.blue))}
     );
     border-radius: 8px;
     box-shadow: 0 0 0 1px inset rgba(0, 0, 0, 0.14);
@@ -138,7 +139,6 @@ const SubscribeOverlayTitle = styled.h1`
 const SubscribeOverlayDescription = styled.p`
   margin: 0 auto 50px;
   max-width: 650px;
-  font-family: Georgia, serif;
   font-size: 3rem;
   line-height: 1.3em;
   font-weight: 300;
@@ -189,9 +189,9 @@ class SubscribeModal extends React.Component<any, SubscribeState> {
         <SubscribeOverlayClose onClick={this.close} />
         <SubscribeOverlayContent>
           <SubscribeLogo />
-          <SubscribeOverlayTitle>Subscribe to {config.title}</SubscribeOverlayTitle>
+          <SubscribeOverlayTitle>Subscribe to {config.urlTitle}</SubscribeOverlayTitle>
           <SubscribeOverlayDescription>
-            Stay up to date! Get all the latest &amp; greatest posts delivered straight to your
+            Stay up to date! Get all the latest posts delivered straight to your
             inbox
           </SubscribeOverlayDescription>
           <SubscribeForm />

@@ -1,5 +1,5 @@
-import { darken, desaturate, lighten, mix } from 'polished';
 import * as React from 'react';
+import { darken, desaturate, lighten, mix } from 'polished';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
@@ -17,7 +17,6 @@ const SubscribeEmail = styled.input`
   display: block;
   padding: 10px;
   width: 100%;
-  /* border: color(var(--lightgrey) l(+7%)) 1px solid; */
   border: ${lighten('0.07', colors.lightgrey)};
   color: ${colors.midgrey};
   font-size: 1.8rem;
@@ -84,7 +83,6 @@ const FormGroup = styled.div`
 
 const SubscribeForm: React.FunctionComponent = () => {
   return (
-
     <form
         css={SubscribeFormStyles}
         action={config.tinyletterAction}

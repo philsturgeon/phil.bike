@@ -5,22 +5,20 @@ import { css } from '@emotion/core';
 
 import { colors } from '../../styles/colors';
 import SubscribeForm from './SubscribeForm';
-
+import config from '../../website-config';
 
 const SubscribeFormSection = styled.section`
   margin: 1.5em 0;
-  padding: 6.5vw 7vw 7vw;
-  /* border: color(var(--whitegrey) l(+2%)) 1px solid; */
+  padding: 3.5vw 7vw 4vw;
   border: ${lighten('0.02', colors.whitegrey)} 1px solid;
   text-align: center;
-  /* background: color(var(--whitegrey) l(+4%)); */
   background: ${lighten('0.04', colors.whitegrey)};
   border-radius: 7px;
 
   p {
     margin-bottom: 1em;
     color: ${colors.midgrey};
-    font-size: 2.2rem;
+    font-size: 2rem;
     line-height: 1.55em;
     letter-spacing: 0.2px;
   }
@@ -47,7 +45,7 @@ const SubscribeFormTitle = css`
   margin: 0 0 3px 0;
   padding: 0;
   color: ${colors.darkgrey};
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   line-height: 1;
   font-weight: 700;
   @media (max-width: 650px) {
@@ -62,7 +60,7 @@ export interface SubscribeProps {
 const Subscribe: React.FunctionComponent<SubscribeProps> = props => {
   return (
     <SubscribeFormSection>
-      <h3 css={SubscribeFormTitle}>Subscribe to {props.title}</h3>
+      <h3 css={SubscribeFormTitle}>Subscribe to {config.urlTitle}</h3>
       <p>Get the latest posts delivered right to your inbox</p>
       <SubscribeForm />
     </SubscribeFormSection>
