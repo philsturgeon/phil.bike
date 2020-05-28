@@ -1,5 +1,5 @@
-import { darken, desaturate, lighten, mix } from 'polished';
 import * as React from 'react';
+import { darken, desaturate, lighten, mix } from 'polished';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
