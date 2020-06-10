@@ -22,8 +22,8 @@ Here are some ferries I took this year:
 - Hook of Holland to Harwich, England ([Stena Line](https://www.stenaline.co.uk/))
 - Pembroke, Wales to Rosslare, Ireland ([Irish Ferries](https://www.irishferries.com/))
 - Dublin, Ireland to Holyhead, Wales ([Stena Line](https://www.stenaline.co.uk/))
-
-Right now I'm sat on the Portsmouth, UK to Le Havre, France, with [Britannia Ferries](https://www.brittanyferries.com).
+- Portsmouth, UK to Le Havre, France ([Britannia Ferries](https://www.brittanyferries.com))
+- Hull, UK to Rotterdam, Netherlands ([P&O Ferries](http://www.poferries.com/))
 
 All of these ferries have been incredibly simple. Two of them I turned up late and 50-100% drunk, and another time I rode on with no brakes after a canti-config-in-the-queue went wrong. Mainly I just crack a few jokes with the person in the booth who has more questions about bike-life than about border related matters.
 
@@ -45,7 +45,7 @@ No rack? No problem. They quite often say "Just leave that here and one of the c
 
 ![Fancy ass knot Heidi helped me pull off](img/2019/ferries/knot.jpg)
 
-Or just granny knot that shit and go to the bar. Simple as.
+If you're super prepared you've got your own ratchet strap with you, or just throw out a granny knot and go to the bar.
 
 ## Luggage Bike + Shuttle Boarding
 
@@ -110,6 +110,14 @@ Anyway, be aware that not all ferries will take a bike, and they might not liste
 
 I took another ferry that went to the west coast of Wales instead of Liverpool. It added 100 miles to my trip, and set me back two days, but whatever I could have jumped on a train if there was a particular schedule. 
 
+## Boarding / Check-in Times
+
+Many of the ferries advertise a time which is nonsense. Sometimes it will say "last check-in by 7pm" and the vehicles won't even start boarding until after that time, so you can roll up on your bike at 7pm or 7:30pm and if its a "ride-on" where you don't need a ticket then you're all set. 
+
+With P&O Ferries going from Hull to Rotterdam they said last check-in at 7pm, boat leaves at 8:30pm, but the ramps were up at 7:20pm and the boat was gone at 7:45pm. 
+
+The best general advice is to make sure you're there before the last checkin time, early enough to grab a ticket if you need to, and take food, water, and beer to keep yourself entertained if you're stuck waiting around for a few hours. You might get lucky if you're late, or you might have to swim after it.
+
 ## Onboard
 
 Some general ferry rules to watch out for. 
@@ -136,4 +144,6 @@ If you rode your bike on, you'll just ride your bike off. Usually before all the
 
 If they trucked it on, they'll probably truck it off, and it'll be sat about waiting to be reunited with you. 
 
-![](img/2019/ferries/baggage.jpg)
+![My bike sat in a ferry waiting area and thankfully none stole it](img/2019/ferries/baggage.jpg)
+
+_I'll keep updating this one as I go, and as I find more ferries which do and don't let bikes on._
