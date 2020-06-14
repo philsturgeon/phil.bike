@@ -3,7 +3,7 @@ layout: post
 author: Phil
 title: "Cinq Plug 5 Plus Review"
 date: 2020-05-04
-image: img/cinq-plug-5-plus/cover.jpg
+image: img/2020/cinq-plug-5-plus/cover.jpg
 tags:
 - gear
 - video
@@ -11,7 +11,6 @@ tags:
 - cinq
 - touring
 - usb-c
-featured: true
 ---
 
 When you're out riding for weeks at a time, there are all sorts of devices to keep charged. Phone, bike computer, head torch, the remote for my selfie tripod so I can get poser shots for Instagram when i'm all by myself... 😅 If you're staying in hotels every night, sure, try and remember to rotate everything through or take 100 power adapters, but what if you're forgetful, or what if you're wild-camping?
