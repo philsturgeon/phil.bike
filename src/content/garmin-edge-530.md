@@ -3,7 +3,7 @@ layout: post
 author: Phil
 title: "Garmin Edge 530 Review"
 date: 2020-05-04
-image: img/garmin-edge-530/cover.png
+image: img/2020/garmin-edge-530/cover.png
 tags:
 - gear
 - video
