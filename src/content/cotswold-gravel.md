@@ -7,7 +7,6 @@ date: 2020-05-15
 tags:
 - gravel
 - exploring
-featured: true
 ---
 
 Bristol and Bath are two amazing cities that I'm lucky to have called home most of my life. I lived between the two cities, riding in and out of them and all over the in-between, which is mostly country lanes, dirt tracks, fields, streams, fords, and opportunities for adventure.
