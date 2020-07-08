@@ -125,6 +125,7 @@ const PostTemplate: React.FC<PostTemplateProps> = props => {
   return (
     <IndexLayout className="post-template">
       <Seo
+        canonical={post.frontmatter.canonical}
         height={height}
         width={width}
         pathContext={props.pathContext}
@@ -379,6 +380,7 @@ export const query = graphql`
       frontmatter {
         title
         userDate: date(formatString: "D MMMM YYYY")
+        canonical
         date
         tags
         image {
@@ -427,4 +429,3 @@ export const query = graphql`
 `;
 
 export default PostTemplate;
-

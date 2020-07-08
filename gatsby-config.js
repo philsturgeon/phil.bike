@@ -41,7 +41,7 @@ module.exports = {
             },
           },
           {
-            resolve: `@raae/gatsby-remark-oembed`,
+            resolve: '@raae/gatsby-remark-oembed',
             options: {
               providers: {
                 include: [
@@ -61,16 +61,16 @@ module.exports = {
       },
     },
     'gatsby-transformer-json',
-    {
-      resolve: 'gatsby-plugin-canonical-urls',
-      options: {
-        siteUrl: 'https://phil.bike',
-      },
-    },
     'gatsby-plugin-emotion',
     'gatsby-plugin-typescript',
     'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
+    {
+      resolve: 'gatsby-plugin-react-helmet-canonical-urls',
+      options: {
+        siteUrl: 'https://phil.bike',
+      },
+    },
     'gatsby-transformer-yaml',
     'gatsby-plugin-feed',
     {
