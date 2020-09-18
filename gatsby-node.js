@@ -2,6 +2,16 @@
 const path = require('path');
 const _ = require('lodash');
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  const typeDefs = `
+    type MarkdownRemarkFrontmatter implements Node {
+      canonical: String
+    }
+  `;
+  createTypes(typeDefs);
+};
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
 
@@ -14,11 +24,11 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     case 'MarkdownRemark': {
       const { permalink, layout, primaryTag, date } = node.frontmatter;
       const { relativePath } = getNode(node.parent);
-      
+
       let year = new Date(date);
       year = year.getFullYear();
       let slug = permalink;
-      
+
       // add year to blog post paths
       if (!slug && layout === 'post') {
         slug = `/${year}/${relativePath.replace('.md', '')}/`;
@@ -155,7 +165,7 @@ exports.createPages = async ({ graphql, actions }) => {
       // template.
       //
       // Note that the template has to exist first, or else the build will fail.
-      component: path.resolve(`./src/templates/${layout || 'post'}.tsx`),      
+      component: path.resolve(`./src/templates/${layout || 'post'}.tsx`),
       context: {
         // Data passed to context is available in page queries as GraphQL variables.
         slug,
