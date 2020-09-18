@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Phil.Bike',
-    description: 'Sometimes I race bikes, but right now I\'m cycling across Europe.',
+    description: 'Cyclocross around the world, carrying just enough gear to not get fired.',
     siteUrl: 'https://phil.bike',
     logo: '',
   },
