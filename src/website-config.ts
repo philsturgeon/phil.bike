@@ -38,7 +38,7 @@ const config: WebsiteConfig = {
   siteUrl: 'https://phil.bike',
   twitter: 'https://twitter.com/philsturgeon',
   instagram: 'https://instagram.com/philsturgeon',
-  offset: 'https://offset.earth/philsturgeon',
+  offset: 'https://ecologi.com/philsturgeon',
   strava: 'https://www.strava.com/athletes/philsturgeon',
   komoot: 'https://www.komoot.com/user/294561424155',
   showSubscribe: true,

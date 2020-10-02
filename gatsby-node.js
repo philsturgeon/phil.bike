@@ -2,15 +2,16 @@
 const path = require('path');
 const _ = require('lodash');
 
-exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions;
-  const typeDefs = `
-    type MarkdownRemarkFrontmatter implements Node {
-      canonical: String
-    }
-  `;
-  createTypes(typeDefs);
-};
+// exports.createSchemaCustomization = ({ actions }) => {
+//   const { createTypes } = actions;
+//   const typeDefs = `
+//     type MarkdownRemarkFrontmatter implements Node {
+//       canonical: String
+//       tags: Object[]
+//     }
+//   `;
+//   createTypes(typeDefs);
+// };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;

@@ -380,7 +380,7 @@ export const query = graphql`
       frontmatter {
         title
         userDate: date(formatString: "D MMMM YYYY")
-        canonical
+        # canonical
         date
         tags
         image {

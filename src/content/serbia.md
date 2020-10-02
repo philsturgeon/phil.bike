@@ -57,4 +57,4 @@ After that was a straight shot to the Bosnian border! I went to a town called Ba
 
 That's another story. Bosnia was wild. Smash your email address in the subscribe box below, it's new! Please [support my fundraiser](/trees) too, need to get a few thousand more trees this month to hit the target!
 
-[![](img/2019/06-trees/tree-banks.jpg)](https://offset.earth/philsturgeon)
+[![](img/2019/06-trees/tree-banks.jpg)](https://ecologi.com/philsturgeon)

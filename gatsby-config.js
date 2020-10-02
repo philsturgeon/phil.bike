@@ -29,7 +29,6 @@ module.exports = {
               wrapperStyle: 'margin-bottom: 1rem',
             },
           },
-          'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
           'gatsby-remark-abbr',
@@ -51,12 +50,14 @@ module.exports = {
                   'Vimeo',
                 ],
                 settings: {
-                  // Ex. Show all Twitter embeds with the dark theme
-                  // Twitter: { theme: 'dark' },
+                  Instagram: {
+                    url: 'https://api.instagram.com/oembed',
+                    // access_token: 'something'
+                  },
                 },
               },
             },
-          }
+          },
         ],
       },
     },

@@ -27,4 +27,4 @@ After a year of touring around Europe with this thing I thought I’d share the 
 
 Since recording this video Tout Terrain support told us to fuck off. We told them their cap broke and they said they were "not going to keep sending another cap out every time it breaks", which is pretty ridiculous when they've accepted "we are working on the problems with water". So, which is it? Are you going to fix the cap and give us one of those, are you going to let us return it, or are you going to send us more temporary caps until you find a proper fix? 😡
 
-_If you liked this review, and want to see the beautiful farm it was recorded on covered in trees, please threw a few quid into my [Offset Earth forest](https://offset.earth/philsturgeon). We're gonna plant a few thousand trees there this winter!_
+_If you liked this review, and want to see the beautiful farm it was recorded on covered in trees, please threw a few quid into my [Ecologi forest](https://ecologi.com/philsturgeon). We're gonna plant a few thousand trees there this winter!_

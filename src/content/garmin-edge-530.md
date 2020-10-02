@@ -23,4 +23,4 @@ Also, for some reason, the Edge kept trying to direct me to Taiwan.
 
 I'd keep on using this if I wasn't traveling through unknown territory all the time. It's not great for full-time touring. There's just so many times you'll be stuck not having a clue where to go, whether it's down to bluetooth failing you, Strava/Komoot apps not syncing, turn guidance putting you under a bus after it's fatally confused by a roundabout, or being so busy showing off ClimbPro you miss a turn on a climb.
 
-_If you're mostly riding near home/racing/training, this is great for you. I'll even sell you mine 50% off asking price - which only covers repairs! If you want it, it'll cost you £110, or preferably a equal-or-greater donation to my [Offset Earth forest](https://offset.earth/philsturgeon)._
+_If you're mostly riding near home/racing/training, this is great for you. I'll even sell you mine 50% off asking price - which only covers repairs! If you want it, it'll cost you £110, or preferably a equal-or-greater donation to my [Ecologi forest](https://ecologi.com/philsturgeon)._

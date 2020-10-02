@@ -208,6 +208,6 @@ If we want to avoid a future where we all have to live in a nuclear bunker and
 fight each other for scraps of rat meat while the whole world burns around us,
 we should all be out there planting more trees.
 
-[So lets do that](https://offset.earth/philsturgeon). That charity is planting
+[So lets do that](https://ecologi.com/philsturgeon). That charity is planting
 trees all over for about $0.10 a tree, so please donate at least 100 trees. I
 want to get to 5,000 trees before the end of June!

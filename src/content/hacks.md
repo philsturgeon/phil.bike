@@ -4,7 +4,6 @@ author: Phil
 title: "Bike Hacks"
 image: img/hacks/floss.jpg
 date: 2020-07-05
-featured: true
 tags:
 - hacks
 - touring
@@ -149,4 +148,4 @@ I'd love to pool loads of ridiculous ideas so we can keep moving when we're out 
 
 <hr>
 
-_Support reforestation and keep these articles coming by [donating to my reforestation campaign on Offset Earth](https://offset.earth/philsturgeon)._
+_Support reforestation and keep these articles coming by [donating to my reforestation campaign on Ecologi](https://ecologi.com/philsturgeon)._

@@ -107,4 +107,4 @@ Then a compact gravel rail trail heads out to Wellow, a quant village with a few
 
 <hr>
 
-_Support reforestation and keep these articles coming by [donating to my reforestation campaign on Offset Earth](https://offset.earth/philsturgeon)._
+_Support reforestation and keep these articles coming by [donating to my reforestation campaign on Ecologi](https://ecologi.com/philsturgeon)._

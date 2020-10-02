@@ -48,4 +48,4 @@ With my current level of sheer and unadulterated panic about impending climate o
 
 ![French rail trail surrounded by trees](img/2020/charity-bike-delivery-paris/trees.jpg)
 
-If you own anything you can spare, shed it all, and put it towards [saving the planet](https://offset.earth/philsturgeon?gift=true). If I learned anything this summer, it's that [riding bikes in 42C is bullshit](https://offset.earth/articles/climate-emergency/climate-change-by-bike), and the world isn't getting any cooler.
+If you own anything you can spare, shed it all, and put it towards [saving the planet](https://ecologi.com/philsturgeon?gift=true). If I learned anything this summer, it's that [riding bikes in 42C is bullshit](https://offset.earth/articles/climate-emergency/climate-change-by-bike), and the world isn't getting any cooler.
