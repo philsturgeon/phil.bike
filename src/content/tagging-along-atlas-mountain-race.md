@@ -93,7 +93,7 @@ The Police appeared from nowhere and tried sending off the nice downhill road, a
 
 I cycled for a whole two minutes until I saw a cafe. I talked to the guy in French a while until he noticed I was English, and he was so excited! The cafe guy lived in Brighton for a while, and didn't get to practice his English often. We talked about life and the world for about an hour whilst he made me several cheese omelettes, and I couldn't be happier that life was returning to normal, and I could just ride through beautiful valleys.
 
-![One kid sat on the handle bars, facing back at his friend. They were just talking to each other and smiling, said it was ok for me to take a photo and looked very happy.](img/2020/amr/lads-bikes.jpg)
+![](img/2020/amr/valley.jpg)
 
 Staring off at the mud homes, intricate permiculture directing what little water they had left into fields, and stunning rock formations, meant I hit a pothole and popped another tube... Hiding under a rock in the midday sun I swapped it out, wrestled with the shit tyres some more, and eventually snapped my 4th and final lever, meaning, you guessed it, I popped that final remaining tube, and now I am fucked.
 
