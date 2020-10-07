@@ -14,7 +14,8 @@ export const PostFullContent = styled.section`
   font-size: 2rem;
   line-height: 1.6em;
 
-  .twitter-tweet, .twitter-tweet-rendered {
+  .twitter-tweet,
+  .twitter-tweet-rendered {
     margin: 0 auto;
     margin-bottom: 25px !important;
   }
@@ -63,7 +64,6 @@ export const PostFullContent = styled.section`
   }
 
   a:hover {
-    color: ${colors.orange};
     text-decoration: none;
     box-shadow: ${colors.orange} 0 -1px 0 inset;
   }
@@ -73,6 +73,18 @@ export const PostFullContent = styled.section`
     /* color: color(var(--darkgrey) l(-5%)); */
     color: ${darken('0.05', colors.darkgrey)};
   }
+
+  @media (prefers-color-scheme: dark) {
+    a {
+      color: ${colors.orange};
+    }
+
+    strong,
+    em {
+      color: color(var(--darkgrey) l(-5%));
+    }
+  }
+
   small {
     display: inline-block;
     line-height: 1.6em;
@@ -108,7 +120,11 @@ export const PostFullContent = styled.section`
   }
   /* Override third party iframe styles */
   iframe {
-    margin: 0 auto !important;
+    margin: 2em auto 3em !important;
+  }
+  .gatsby-resp-image-wrapper {
+    margin-top: 2em;
+    margin-bottom: 3em;
   }
   blockquote {
     margin: 0 0 1.5em;
@@ -188,6 +204,18 @@ export const PostFullContent = styled.section`
   h6 {
     color: ${setLightness('0.05', colors.darkgrey)};
   }
+
+  @media (prefers-color-scheme: dark) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: color(var(--darkgrey) l(-5%));
+    }
+  }
+
   h1 {
     margin: 0.5em 0 0.2em 0;
     font-size: 4.6rem;
@@ -199,7 +227,7 @@ export const PostFullContent = styled.section`
     }
   }
   h2 {
-    margin: 0.5em 0 0.2em 0;
+    margin: 2em 0 1em 0;
     font-size: 3.6rem;
     font-weight: 700;
   }
@@ -268,8 +296,8 @@ export const PostFullContent = styled.section`
     width: auto;
     border-spacing: 0;
     border-collapse: collapse;
-    font-family: ${fonts.headers}, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
-      'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: ${fonts.headers}, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 1.6rem;
     white-space: nowrap;
     vertical-align: top;
