@@ -1,3 +1,7 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
+
 const path = require('path');
 
 module.exports = {
@@ -51,8 +55,7 @@ module.exports = {
                 ],
                 settings: {
                   Instagram: {
-                    url: 'https://api.instagram.com/oembed',
-                    // access_token: 'something'
+                    access_token: process.env.INSTAGRAM_ACCESS_TOKEN,
                   },
                 },
               },
