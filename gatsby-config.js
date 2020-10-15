@@ -1,6 +1,4 @@
-require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`,
-});
+require('dotenv').config();
 
 const path = require('path');
 
@@ -54,6 +52,10 @@ module.exports = {
                   'Vimeo',
                 ],
                 settings: {
+                  Twitter: {
+                    align: 'center',
+                    dnt: true
+                  },
                   Instagram: {
                     access_token: process.env.INSTAGRAM_ACCESS_TOKEN,
                   },
