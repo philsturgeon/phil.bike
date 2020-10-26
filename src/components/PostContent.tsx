@@ -122,10 +122,16 @@ export const PostFullContent = styled.section`
   iframe {
     margin: 2em auto 3em !important;
   }
-  .gatsby-resp-image-wrapper {
-    margin-top: 2em;
-    margin-bottom: 3em;
+
+  figure {
+    text-align: center
   }
+
+  figcaption {
+    font-size: small;
+    margin: 1rem 2rem;
+  }
+
   blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
