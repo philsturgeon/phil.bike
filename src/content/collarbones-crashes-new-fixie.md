@@ -16,4 +16,4 @@ One-armed struggles in the pain cave, fixing up a set of wobbly handlebars on th
 
 Cya again soon for more two-wheeled nonsense!
 
-[Subscribe on YouTube](https://www.youtube.com/c/PhilSturgeonCiderBiker) to make that easier.
+[Subscribe on YouTube](https://www.youtube.com/channel/UCM4bV2eky1V9_wH3w9xvpfQ) to make that easier.

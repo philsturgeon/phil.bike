@@ -7,7 +7,7 @@ date: 2019-08-09
 tags:
 - touring
 - gear
-- backpacking
+- bikepacking
 ---
 
 Figuring out exactly what bags to get for my tour was tough. There's loads of options and obsessing about it is hard to avoid. Should I try a "bike packing" setup - sticking to frame/seat/handlebar bags and avoiding racks. Or should I go full blown "touring" with a big old rack and panniers. Is there something in between? 
