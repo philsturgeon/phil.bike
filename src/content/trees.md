@@ -8,7 +8,7 @@ tags:
 - environment
 ---
 
-_This blog tracks a bunch of donations when I was fundraising Summer 2019, but there can never be enough trees in the ground. Check out [Ecologi][offsetearth] and donate anything you can to avoid climate oblivion. We can't cycle under water, and being on fire will mess with your FTP._
+_This fundraiser managed to get 100,000 trees in the ground in 2019. In 2020 things are far worse, so we're going bigger. I have started a reforestation charity called [Protect Earth](https://protect.earth), please donate anything you can to avoid climate oblivion. We can't cycle under water, and being on fire will mess with your FTP._
 
 Do you know what your carbon footprint is? Living on a bike and riding around the place without a car you'd think your carbon footprint was pretty low, but I did some math and mine is still awful. The average American pumps 50,000 lb of CO2 into the air annually, which is about 4,100 a month, and about 140 lb a day. In contrast, [bike tour life](/euro-trip-two-months/) creates 40 lb a day from hotels and 15 lb a day from meals ([source](https://carbonfund.org/how-we-calculate/)), which is about 1,650 lb a month.
 
