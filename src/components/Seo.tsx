@@ -32,7 +32,7 @@ export const Seo: React.FC<SeoProps> = ({
 }) => {
   const urlPath = pathContext ? pathContext.slug : path;
   const imagePath =
-    post && post.frontmatter.image
+    post?.frontmatter.image
       ? post.frontmatter.image.childImageSharp.fluid.src
       : image || defaultImage;
 
@@ -55,12 +55,12 @@ export const Seo: React.FC<SeoProps> = ({
       <meta property="og:url" content={config.siteUrl + urlPath} />
       {imagePath && <meta property="og:image" content={`${config.siteUrl}${imagePath}`} />}
       {post && <meta property="article:published_time" content={post.frontmatter.date} />}
-      {post && post.frontmatter.tags && (
+      {post?.frontmatter.tags && (
         <meta property="article:tag" content={post.frontmatter.tags[0]} />
       )}
       <meta
         name="twitter:card"
-        content={post && post.frontmatter.image ? 'summary_large_image' : 'summary'}
+        content={post?.frontmatter.image ? 'summary_large_image' : 'summary'}
       />
       <meta name="twitter:title" content={title || post.frontmatter.title} />
       <meta
@@ -68,18 +68,18 @@ export const Seo: React.FC<SeoProps> = ({
         content={description || post.excerpt || post.frontmatter.description}
       />
       <meta name="twitter:url" content={config.siteUrl + urlPath} />
-      {post && post.frontmatter.image && post.frontmatter.image.childImageSharp && (
+      {post?.frontmatter.image && post.frontmatter.image.childImageSharp && (
         <meta
           name="twitter:image"
           content={`${config.siteUrl}${post.frontmatter.image.childImageSharp.fluid.src}`}
         />
       )}
-      {post && post.frontmatter.author && <meta name="twitter:label1" content="Written by" />}
-      {post && post.frontmatter.author && (
+      {post?.frontmatter.author && <meta name="twitter:label1" content="Written by" />}
+      {post?.frontmatter.author && (
         <meta name="twitter:data1" content={post.frontmatter.author.id} />
       )}
-      {post && post.frontmatter.tags && <meta name="twitter:label2" content="Filed under" />}
-      {post && post.frontmatter.tags && (
+      {post?.frontmatter.tags && <meta name="twitter:label2" content="Filed under" />}
+      {post?.frontmatter.tags && (
         <meta name="twitter:data2" content={post.frontmatter.tags[0]} />
       )}
       {config.twitter && (
@@ -93,6 +93,8 @@ export const Seo: React.FC<SeoProps> = ({
       )}
       {width && <meta property="og:image:width" content={width} />}
       {height && <meta property="og:image:height" content={height} />}
+
+      <link rel="alternate" type="application/rss+xml" title="Phil.Bike" href="/rss.xml" />
     </Helmet>
   );
 };
