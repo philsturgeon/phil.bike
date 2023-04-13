@@ -1,26 +1,7 @@
-[build]
-  publish = "public"
-
-[[plugins]]
-  package = "netlify-plugin-gatsby-cache"
-
-[[headers]]
-  # Set the default header to the one we want for documents
-  for = "/*"
-    [headers.values]
-    cache-control = "public,max-age=3600"
-    Referrer-Policy = "no-referrer-when-downgrade"
-    X-Frame-Options = "SAMEORIGIN"
-    X-Content-Type-Options = "nosniff"
-    Feature-Policy = "camera 'none'; geolocation 'none'; microphone 'none'"
-    Strict-Transport-Security = "max-age=2592000;"
-
-[[headers]]
-  for = "/img/*"
-    [headers.values]
-    cache-control = "public,max-age=604800"
-
-[[headers]]
-  for = "/static/*"
-    [headers.values]
-    cache-control = "public,max-age=604800"
+[[redirects]]
+  from = "/"
+  to = "https://philsturgeon.com/tag/bikes"
+  
+[[redirects]]
+  from = "/*"
+  to = "https://philsturgeon.com/:splat"
